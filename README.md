@@ -1,1 +1,1 @@
-the manual for RStudio Server from a user's perspective
+kolmanda kooliastme matemaatika õppe keskkond
