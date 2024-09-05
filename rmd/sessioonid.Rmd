@@ -6,14 +6,14 @@
 
 ### Õpitulemused
 
-\begin{multicols}{2}
+\multicolsbegin
 
 Kursuse lõpus õpilane:
 
 1. selgitab arvu ruutjuure tähendust;
 2. leiab peast või taskuarvutil ruutjuure[@phikooli].
 
-\end{multicols}
+\multicolsend
 
 ## Kalender
 
@@ -24,3 +24,11 @@ Tutvustasin juurimist.
 ### 2024-9-4
 
 Harjutasime juurimist.
+
+### 2024-9-5
+
+Käsitlesime uuesti kõike senikäsitletut juurimise osas minu slaidide abiga. Selgitasin juurimist paaritu- ja paarisarvulise juurijaga.
+
+### 2024-9-5
+
+Harjutasime juurimist: sõnastus, lahtikirjutamine.

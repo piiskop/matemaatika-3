@@ -229,3 +229,9 @@ render_color <- function(color, text) {
 
 # Sissejuhatus {-}
 
+```{r label="link-to-web", echo=FALSE}
+if (knitr::is_latex_output()) {
+  "[veebiteisend](http://matemaatika-3.ons.ee)"
+}
+
+```
