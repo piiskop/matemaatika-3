@@ -1,0 +1,26 @@
+[]{#sessions}
+
+# Kolmanda taseme matemaatika sisu
+
+## Arvutamine
+
+### Õpitulemused
+
+\begin{multicols}{2}
+
+Kursuse lõpus õpilane:
+
+1. selgitab arvu ruutjuure tähendust;
+2. leiab peast või taskuarvutil ruutjuure[@phikooli].
+
+\end{multicols}
+
+## Kalender
+
+### 2024-9-4
+
+Tutvustasin juurimist.
+
+### 2024-9-4
+
+Harjutasime juurimist.

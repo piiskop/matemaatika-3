@@ -4,9 +4,8 @@ author:
 bibliography: presentation.bib
 csl: ../../apa-numeric-superscript-brackets.csl
 title: |
-    | Individual experiences with
-    | chlorine dioxide solution
-    | (CDS)
+    | Kolmanda kooliastme
+    | matemaatika
 output-file: presentation.html
 format:
   revealjs:
@@ -15,10 +14,11 @@ format:
       url: 'http://manual-for-rstudio.ons.ee:1948/'
       secret: "16759825730498538629"
       socketId: "f3edf0ff0d09982e"
+language: et.yml
 
 ---
 
-## *Quarto*
+## Juurimise mõiste
 
 ```{r label="preamble"}
 #' This function displays external graphics by making the appropriate conversion aforehead.
@@ -44,55 +44,104 @@ include_external_graphics = function(path) {
 
 ```
 
-- does not link between files,
-- every presentation is separate,
-- looks so much better than *bookdown*-presentations.
+juur
+: astendamise pöördtehe astendatava arvutamiseks
 
-What version of *Quarto* do I have[@how]?
+## Juurimine paarituarvulise juurijaga
 
-```
-quarto check
+Paarituarvulise juurijaga juurimise valemis (@eq-root-odd-rule):
 
-```
+$a$
+: astendatav ja juur,
 
-## Setup
+$b$
+: astendaja ja juurija,
 
-1. For every presentation a subfolder inside the subfolder *qmd*.
+$f$
+: aste ja juuritav.
 
-2. Link to the presentation in *js.js*:
+$$
+n \in \mathbb{N} \land b = 2 \cdot n + 1 \land a^b = f \to \sqrt[b]{f} = {a}.
+$${#eq-root-odd-rule}
 
-```
-  let nameOfPresentation = "<name-of-presentation>";
-  createLink(div, "presentation-" + nameOfPresentation, nameOfPresentation + ".html", "<The title of the presentation>");
+## Näide paarituarvulise juurijaga
 
-```
+paarituarvulise juurijaga juurimise näide (@eq-root-odd-example)
 
-## Preparing for remote controlling
+$$
+(-2)^3 = -8 \rightarrow \sqrt[3]{-8} = -2.
+$${#eq-root-odd-example}
 
-1. Cloning *multiplex* [@a2023_multiplex].
+## Juurimine paarisarvulise juurijaga
 
-2.  In the *multiplex*'s folder:
+juurimine paarisarvulise juurijaga
+: paarisarvulise astendajaga astendamise pöördtehe mittenegatiivse astendatava arvutamiseks
 
-    ```
-    npm install reveal-multiplex
-    
-    ```
-    
-3.  Creating the service:
+paarisarvulise juurijaga juurimise reegel (@eq-root-even-rule) ja näide (@eq-root-even-example)
 
-    ```
-    sudo emacs /etc/systemd/system/multiplex.service
-    
-    ```
-    
-4.  Starting the server:
+$$
+n \in \mathbb{N} \land b = 2 \cdot n \land a^b = f \to \sqrt[b]{f} = {|a|}.
+$${#eq-root-even-rule}
 
-    ```
-    sudo systemctl start multiplex.service
-    
-    ```
+$$
+(-2)^4 = 16 \rightarrow \sqrt[4]{16} = |-2|.
+$${#eq-root-even-example}
 
-5. Directing traffic to port 1948 into the server machine.
+## Juure esitusteisendid
+
+juure esitusteisendid juuremärgiga ja astendajaga (@eq-root-methods-rule) ning näide (@eq-root-methods-example)
+
+:::: {layout="[50, 50]"}
+
+::: {#root-methods-rule}
+
+$$
+\sqrt[b]{f^j} = f^\frac{j}{b}.
+$${#eq-root-methods-rule}
+
+:::
+
+::: {#root-methods-example}
+
+$$
+\sqrt[3]{8^4} = 8^\frac{4}{3}.
+$${#eq-root-methods-example}
+
+:::
+
+::::
+
+## Ruutjuur
+
+ruutjuur
+: teise astme juur
+
+ruutjuure reegel (@eq-square-root-rule) ja näide (@eq-square-root-example)
+
+:::: {layout="[50, 50]"}
+
+::: {#square-root-rule}
+
+$$
+\sqrt[2]{f} = \sqrt{f} = f^\frac{1}{2}.
+$${#eq-square-root-rule}
+
+:::
+
+::: {#square-root-example}
+
+$$
+\sqrt[2]{4} = \sqrt{4} = 4^\frac{1}{2} = 2.
+$${#eq-square-root-example}
+
+:::
+
+::::
+
+## Juurimise harjutamine
+
+1. Eesti harjutamine [@a2024_matemaatika5279pdf(lk 11-12)]
+2. Kas on irratsionaalarv[@a2020_is]?
 
 ## Remote controlling
 
