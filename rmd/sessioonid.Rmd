@@ -62,3 +62,13 @@ Osalesid vanem aleksei, artjom, ilja, nikolai, maarja ja katja.
 ### 2024-9-11
 
 Tutvustasin ruutvõrrandit: üldkuju, komponendid.
+
+### 2024-9-12
+
+Kordasime ruutvõrrandi üldkuju ja komponente, jaotasime võrrandid eri alamkategooriatesse.
+
+Osalesid Katja Spungina, Maarja, Artem, Alexey Mazanob, nikolai ja ilja.
+
+### 2024-9-12
+
+Näitasin, kuidas ruutvõrrandit koostada ruudu külje ja ristküliku külje pikkuse arvutamiseks. Harjutasime lahendite kontrollimist.
