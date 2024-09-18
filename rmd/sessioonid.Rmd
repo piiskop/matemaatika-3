@@ -57,6 +57,15 @@ Alexey Mazanob
 1. õpiväljund: 4,
 2. õpiväljund: 2.
 
+### 2024-9-13
+
+Lahendasime koduseid ülesandeid, mis olid ruutvõrrandi lahendite kontrollimise, tüübi ja koefitsientide määramise kohta.
+
+### 2024-9-13
+
+Asusime astendamist algusest peale käsitlema. Jätsin koju lahendada kuni nelja astmed.
+
+
 Osalesid vanem aleksei, artjom, ilja, nikolai, maarja ja katja.
 
 ### 2024-9-11
