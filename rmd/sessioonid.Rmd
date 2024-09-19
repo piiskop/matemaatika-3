@@ -80,3 +80,15 @@ Lahendasime koduseid ülesandeid, mis olid ruutvõrrandi lahendite kontrollimise
 ### 2024-9-18
 
 Asusime astendamist algusest peale käsitlema. Jätsin koju lahendada kuni nelja astmed.
+
+Osalesid Katja Spungina, Maarja, Artem, Alexey Mazanob, nikolai ja ilja.
+
+### 2024-9-19
+
+Kirjutasime lahti astmeid väikese variatsiooniga.
+
+### 2024-9-19
+
+Kirjutasime lahti astmeid suure variatsiooniga. Tegin astendamise tabeli ühest kümneni astendatava osas ja ühest üheksani astendatava osas. Otsisime ühesugused astmed ja tegurdasime. Pärast tegime juurimised. Koju jätsin lahendada veel mõne arvupaari arvude tegurdamise ja pöördtehete tegemise.
+
+Osalesid Katja Spungina, Maarja, Artem, Alexey Mazanob, nikolai ja ilja.
