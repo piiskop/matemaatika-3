@@ -92,3 +92,18 @@ Kirjutasime lahti astmeid väikese variatsiooniga.
 Kirjutasime lahti astmeid suure variatsiooniga. Tegin astendamise tabeli ühest kümneni astendatava osas ja ühest üheksani astendatava osas. Otsisime ühesugused astmed ja tegurdasime. Pärast tegime juurimised. Koju jätsin lahendada veel mõne arvupaari arvude tegurdamise ja pöördtehete tegemise.
 
 Osalesid Katja Spungina, Maarja, Artem, Alexey Mazanob, nikolai ja ilja.
+
+### 2024-9-25
+
+Lahutasime teguriteks arvu 1296 ning visandasime neli teisendit selle arvu teguritepuust. Näitasin, kuidas astendada jagatist.
+
+### 2024-9-25
+
+Testisime, mis jäi külge astme tegurdamisest:
+Kapitonenko. Sletlana: 30 / 52,
+Maarja: 34 / 52,
+Alexey Mazanov: 39 / 52,
+Spungina Katja: 41 / 52,
+Artem Slepnjov: 47 / 52.
+
+Tegime läbi jagatise astendamise väikese variatsiooniga harjutusülesanded, mis jäid iseseisvalt lõpuni lahendada, kes ei jõudnud.
