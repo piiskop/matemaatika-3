@@ -107,3 +107,15 @@ Spungina Katja: 41 / 52,
 Artem Slepnjov: 47 / 52.
 
 Tegime läbi jagatise astendamise väikese variatsiooniga harjutusülesanded, mis jäid iseseisvalt lõpuni lahendada, kes ei jõudnud.
+
+### 2024-9-26
+
+Käsitlesin õpilaste tehtud vigu astendamise E-taseme testis. Alustasime negatiivse astendatava astendamise käsitlemist.
+
+Osalesid Alexey Mazanov, Artem Slepnjov, nikolai ja svetlana.
+
+### 2024-9-26
+
+Harjutasime negatiivse astendatava astendamise käsitlemist.
+
+Käsitlesime sama astendatavaga astendamist. Ülesanded, mille puhul oli ainult tulemus esitatud, jäid iseseisvaks lahendamiseks.
