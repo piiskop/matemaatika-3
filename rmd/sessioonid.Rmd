@@ -119,3 +119,215 @@ Osalesid Alexey Mazanov, Artem Slepnjov, nikolai ja svetlana.
 Harjutasime negatiivse astendatava astendamise käsitlemist.
 
 Käsitlesime sama astendatavaga astendamist. Ülesanded, mille puhul oli ainult tulemus esitatud, jäid iseseisvaks lahendamiseks.
+
+### МАКСИМРУ УТСААР
+
+astendamise reeglid: 2
+
+## Klassid
+
+```{r label="classes-3", echo=FALSE}
+
+classes <- c(
+  "1",
+  "2",
+  "3",
+  "4",
+  "5",
+  "6",
+  "7",
+  "8"
+)
+
+classes_3_grades <- data.frame(
+c( # 1
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  0, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  1, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  0, # 10. Mazanov, Alexey
+  1, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  NA, # 13. Petrov, Aleksei
+  1, # 14. Slepnjov, Artem
+  0 # 15. Svetlana, Kapitonenko
+),
+c( # 2
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  0, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  0, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  1, # 10. Mazanov, Alexey
+  0, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  NA, # 13. Petrov, Aleksei
+  0, # 14. Slepnjov, Artem
+  0 # 15. Svetlana, Kapitonenko
+  ),
+c( # 3
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  1, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  1, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  0, # 10. Mazanov, Alexey
+  1, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  NA, # 13. Petrov, Aleksei
+  1, # 14. Slepnjov, Artem
+  1 # 15. Svetlana, Kapitonenko
+  ),
+c( # 4
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  NA, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  NA, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  1, # 10. Mazanov, Alexey
+  NA, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  NA, # 13. Petrov, Aleksei
+  1, # 14. Slepnjov, Artem
+  NA # 15. Svetlana, Kapitonenko
+  ),
+c( # 5
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  NA, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  NA, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  0, # 10. Mazanov, Alexey
+  NA, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  1, # 13. Petrov, Aleksei
+  1, # 14. Slepnjov, Artem
+  NA # 15. Svetlana, Kapitonenko
+  ),
+c( # 6
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  NA, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  NA, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  NA, # 10. Mazanov, Alexey
+  NA, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  NA, # 13. Petrov, Aleksei
+  NA, # 14. Slepnjov, Artem
+  NA # 15. Svetlana, Kapitonenko
+  ),
+c( # 7
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  NA, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  NA, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  NA, # 10. Mazanov, Alexey
+  NA, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  NA, # 13. Petrov, Aleksei
+  NA, # 14. Slepnjov, Artem
+  NA # 15. Svetlana, Kapitonenko
+  ),
+c( # 8
+  NA, # 1. Aleksandr, Mussatov
+  NA, # 2. David, Fadejev
+  NA, # 3. Dobušovski, Nikolai
+  NA, # 4. Elis, Lomovtseva
+  NA, # 5. Ilya, Ivanov
+  NA, # 6. Jekaterina, Spungina
+  NA, # 7. Ksenija, Korobova
+  NA, # 8. Kuznetsov, Aleksandr
+  NA, # 9. Lavdanskaja, Daniela
+  NA, # 10. Mazanov, Alexey
+  NA, # 11. Mäekivi, Maarja-Elizabeth
+  NA, # 12. Olga, Nikitina
+  NA, # 13. Petrov, Aleksei
+  NA, # 14. Slepnjov, Artem
+  NA # 15. Svetlana, Kapitonenko
+)
+)
+
+data_frame <- classes_3_grades[1]
+for (class_identifier in 2:8) {
+  data_frame <- cbind(data_frame, classes_3_grades[class_identifier])
+}
+colnames(data_frame) <- classes  
+names_3 <- c(
+  "1. Aleksandr, Mussatov",
+  "2. David, Fadejev",
+  "3. Dobušovski, Nikolai",
+  "4. Elis, Lomovtseva",
+  "5. Ilya, Ivanov",
+  "6. Jekaterina, Spungina",
+  "7. Ksenija, Korobova",
+  "8. Kuznetsov, Aleksandr",
+  "9. Lavdanskaja, Daniela",
+  "10. Mazanov, Alexey",
+  "11. Mäekivi, Maarja-Elizabeth",
+  "12. Olga, Nikitina",
+  "13. Petrov, Aleksei",
+  "14. Slepnjov, Artem",
+  "15. Svetlana, Kapitonenko"
+)
+
+rownames(data_frame) <- names_3
+table <- print_table(
+  table = data_frame,
+  caption = "Õpilaste läbitud klassid 1-9."
+)
+
+table
+
+```
+```{r}
+jou = "1. Aleksandr, Mussatov
+2. David, Fadejev
+3. Dobušovski, Nikolai
+4. Elis, Lomovtseva
+5. Ilya, Ivanov
+6. Jekaterina, Spungina
+7. Ksenija, Korobova
+8. Kuznetsov, Aleksandr
+9. Lavdanskaja, Daniela
+10. Mazanov, Alexey
+11. Mäekivi, Maarja-Elizabeth
+12. Olga, Nikitina
+13. Petrov, Aleksei
+14. Slepnjov, Artem
+15. Svetlana, Kapitonenko"
+ cat(gsub("\n", '",
+   "', jou))
+
+```
+
