@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 OPR/114.0.0.0" version="25.0.1" pages="2">
-  <diagram name="Page-1" id="HOLbYARwxGNt5G9FzNMO">
+  <diagram name="Õpiväljundid" id="HOLbYARwxGNt5G9FzNMO">
     <mxGraphModel dx="740" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
@@ -7,7 +7,7 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-1" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="370" y="1110" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-2" value="5" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#82b366;fillColor=#d5e8d4;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-2" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="553.75" y="615" width="242.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-3" value="&amp;nbsp;kirjutab suuri ja väikseid arve standardkujul" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-2" vertex="1">
@@ -22,26 +22,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-5" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-5" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="556.25" y="310" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-6" value="&amp;nbsp;põhjendab ja kasutab astendamisreegleid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-5" vertex="1">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-8" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-8" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="128" width="260" height="72" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-9" value="&amp;nbsp;selgitab naturaalarvulise astendajaga astendamise tähendust" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-8" vertex="1">
           <mxGeometry y="30" width="260" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-11" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-11" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="550" y="515" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-12" value="arvutab arvu 10 negatiivse täisarvulise astendajaga astme väärtuse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-11" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-14" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="337.5" y="440" width="170" height="70" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="355" y="410" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-15" value="&amp;nbsp;leiab peast või taskuarvutil ruutjuure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-14" vertex="1">
           <mxGeometry y="30" width="170" height="40" as="geometry" />
@@ -56,13 +56,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-20" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-20" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="130" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-21" value="ümardab ratsionaalarve etteantud järguni" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" parent="H3njUC9bQLBFBT5jkG47-20" vertex="1">
           <mxGeometry y="30" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-23" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-23" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="315" y="585" width="235" height="120" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-29" value="&lt;div&gt;&amp;nbsp;liidab, lahutab, korrutab, jagab ja astendab naturaalarvulise astendajaga ratsionaalarve peast,&lt;/div&gt;&lt;div&gt;kirjalikult ja taskuarvutiga ning rakendab tehete järjekorda&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-23" vertex="1">
@@ -71,11 +71,11 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-26" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="320" y="20" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-36" target="H3njUC9bQLBFBT5jkG47-17">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-36" target="H3njUC9bQLBFBT5jkG47-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-36" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="435" y="290" width="200" height="10" as="geometry" />
+          <mxGeometry x="340" y="380" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-38" target="H3njUC9bQLBFBT5jkG47-20">
           <mxGeometry relative="1" as="geometry" />
@@ -137,11 +137,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-18" target="H3njUC9bQLBFBT5jkG47-14">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-18" target="H3njUC9bQLBFBT5jkG47-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="420" />
-              <mxPoint x="410" y="420" />
+              <mxPoint x="435" y="370" />
+              <mxPoint x="436" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -150,16 +150,14 @@
             <mxPoint x="260" y="240" as="sourcePoint" />
             <mxPoint x="310" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="378" y="237" />
-              <mxPoint x="378" y="250" />
-              <mxPoint x="490" y="250" />
-              <mxPoint x="490" y="276" />
-              <mxPoint x="494" y="276" />
+              <mxPoint x="360" y="237" />
+              <mxPoint x="360" y="370" />
+              <mxPoint x="399" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-17" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="365" y="340" width="170" height="70" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-17" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="270" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-18" value="&amp;nbsp;selgitab arvu ruutjuure tähendust" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-17" vertex="1">
           <mxGeometry y="30" width="170" height="40" as="geometry" />
@@ -179,13 +177,13 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-12" target="H3njUC9bQLBFBT5jkG47-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-9" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-9" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="250" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-10" value="selgitab protsendi, promilli ja protsendipunkti mõiste tähendust" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="HqBFGBw3zhF2iMlEuoAb-9">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-11" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-11" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="350" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-12" value="&amp;nbsp;teisendab protsendi kümnendmurruks ja harilikuks murruks ning vastupidi;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="HqBFGBw3zhF2iMlEuoAb-11">
@@ -197,7 +195,7 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HqBFGBw3zhF2iMlEuoAb-14" target="HqBFGBw3zhF2iMlEuoAb-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-14" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="530" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-15" value="&lt;div&gt;lahendab protsentarvutuse tüüpülesandeid (osa leidmine, terviku leidmine, osamäära&lt;/div&gt;&lt;div&gt;leidmine, suuruse muutumine)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="HqBFGBw3zhF2iMlEuoAb-14">
@@ -206,7 +204,7 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HqBFGBw3zhF2iMlEuoAb-12" target="HqBFGBw3zhF2iMlEuoAb-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-17" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-17" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="750" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-18" value="&lt;div&gt;kasutab protsentarvutusel erinevaid lahendusmeetodeid (ühikumeetod, võrre, skeem,&lt;/div&gt;&lt;div&gt;algoritm)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="HqBFGBw3zhF2iMlEuoAb-17">
@@ -224,8 +222,13 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.61;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-21" target="HqBFGBw3zhF2iMlEuoAb-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.7;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-42" target="H3njUC9bQLBFBT5jkG47-36">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-42" target="H3njUC9bQLBFBT5jkG47-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="250" />
+              <mxPoint x="520" y="250" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=0.467;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-6" target="HqBFGBw3zhF2iMlEuoAb-28">
           <mxGeometry relative="1" as="geometry">
@@ -271,12 +274,12 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="G3zDwb-mi2738iLz7LDv" name="Page-2">
-    <mxGraphModel dx="1380" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="G3zDwb-mi2738iLz7LDv" name="Hindamissüsteem">
+    <mxGraphModel dx="740" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I_-PW9f_ODD57kMSkVxC-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Hindan iga õpiväljundi saavutamist, mida kontrollin lühitestiga, mis võib sisaldada ülesandeid eri õpiväljundite kohta. Mitmes testis võib olla ülesandeid sama õpiväljundi kohta. See tähendab, et õpilane võib saada sama õpiväljundi kohta mitu hinnet. Kõrgem hinne näitab kõrgemat oskustaset. Arvesse läheb suurim hinne, mis näitab, kuhu õpilane on jõudnud. Kui see hinne on suurem kui eelmine hinne, siis on õpilane tõenäoliselt õppinud. Kui õpilane on ühe ja sama õpiväljundi saavutatuse kohta saanud mitu hinnet, nt 4, 2, 3, 1, siis kehtima jääb hinne 4, kuna see on suurim&amp;nbsp;hinne. Lühitesti sooritades on keelatud kasutada mis tahes info hankimise abivahendeid, välja arvatud enda või kaasõpilase aju. Matemaatikas tuleb lõpuks sooritada eksam ja valmistume selleks niimoodi. Kui õpilane siiski vähemalt puudutab keelatud abivahendit, siis ma õpilase sooritust ei hinda.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kui mingi õpiväljundi hinne on 1 või 2, siis saab õpilane minult kaheosalise kooliväliseks lahendamiseks mõeldud ülesannete kogumi, milles tuleb täielikult lahendada õpiväljundiga seotud eestikeelsete sõnade ristsõna ja vähemalt 50 % ulatuses teemakohased matemaatika tervikülesanded korrektselt. Ristsõna lahendamise eesmärk on oskus osata seotud sõnavara eesti keeles, et mõistaksime üksteist paremini. Kui korrektselt lahendatud matemaatikaülesandeid on vähem kui 50 % õpilasele määratud tervikülesannete arvust, siis saab õpilane uued matemaatikaülesanded, mida on sedapuhku kahekordne arv võrreldes eelmise ülesannete arvuga, mis tuleb lahendada samal tingimusel. Kui ka seekord normi ei saavutata, saab õpilane omakorda kahekordse arvu uusi ülesandeid samal tingimusel lahendamiseks ning see protsess võib kesta seni, kuni kestab kursus, mille lõppedes fikseerime kõik hinded lõplikuks kursusehindeks. Mida rohkem õpilane harjutab, seda paremini selgeks teema saab.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kui õpilane saaks testisoorituse hindeks 5 või kaks viit, siis on võimalus, et ta kutsutakse järgmises õppesessioonis, kui ta on kohal, vastavalt esimese kümne või viie minuti kestel tahvlile lahendama sarnast ülesannet ja kaasõpilastele valjuhäälselt selgitama ilma nimetatud keelatud abivahenditeta. Seeläbi kontrollime õpilase tegelikke oskusi ja see on võimalus õpilasel oma mõtteid selgitada. Kui õpilane seeläbi näitab, et ta päriselt oskab, siis saab boonuspunkti. Muul juhul peab õpilane edaspidi samasuguse ajapiiranguga õppesessioonidevahelise kuni 20-min pausi kestel minu antud paberilehele lahendama sarnase ülesande. Iga sellise pausi kestel toimub lahendamine, kuni on tõendatud oskus. Kui õpilane keeldub tahvlile lahendamast, siis ta lahendab samamoodi minu antud paberilehele nimetatud pausi kestel. See reegliosa on sisse seatud seetõttu, et vahel ma näen, et keegi justkui kirjutaks kuskilt maha, aga ma ei näe, kust, ning et vältida olukorda, milles õpilane saab lihtsalt mahakirjutamise eest maksimaalse hinde.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kursusel on kaheksa õpiväljundit, mille maksimaalne punktide arv on skaalal 1-5 vastavalt 3, 4, 4, 4, 4, 3, 4 ja 5. Kokku on seega võimalik saada 31 punkti terve kursuse peale kokku. Et minimaalne võimalik hinne on 1 ja maksimaalne võimalik hinne on 5, siis hinnete kaalud on vastavalt 0, 0,25, 0,5, 0,75 ja 1. Näiteks, kui sa saavutad esimese õpiväljundi hindele 4, saad (3 punkti) * 0,75 = 2,25 punkti. Kui testis on boonusülesanne, siis selle lahendamise eest on võimalik saada vastavalt märgitud tasemele rohkem punkte - eKoolis kaks viit. Kursusehinne arvutatakse vastavalt õppekavas sätestatud osamääradele. Nt kui sa saad kokku kogu kursuse peale 26,25 punkti, mis moodustab 31&#39;st osa, mis on vahemikus (75 %)-(89 %) lõpphindest, saad kursusehindeks 4.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Eraldi hinnete parandamist me ei tee. Iga lühitest võib olla osaline või täielik eelneva testi järelvastamine. Kuni kursuse lõpuni on võimalik tõendada õpiväljundi saavutamist, kui vastav temaatika on testis. Muul juhul saab õpilane endale vähemalt 3 kujundada vastava õpiväljundi kohta nimetatud koolivälise ülesande sooritamise kaudu.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="I_-PW9f_ODD57kMSkVxC-2" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Hindan iga õpiväljundi saavutamist, mida kontrollin lühitestiga, mis võib sisaldada ülesandeid eri õpiväljundite kohta. Mitmes testis võib olla ülesandeid sama õpiväljundi kohta. See tähendab, et õpilane võib saada sama õpiväljundi kohta mitu hinnet. Kõrgem hinne näitab kõrgemat oskustaset. Arvesse läheb suurim hinne, mis näitab, kuhu õpilane on jõudnud. Kui see hinne on suurem kui eelmine hinne, siis on õpilane tõenäoliselt õppinud. Kui õpilane on ühe ja sama õpiväljundi saavutatuse kohta saanud mitu hinnet, nt 4, 2, 3, 1, siis kehtima jääb hinne 4, kuna see on suurim&amp;nbsp;hinne. Lühitesti sooritades on keelatud kasutada mis tahes info hankimise abivahendeid, välja arvatud enda või kaasõpilase aju. Matemaatikas tuleb lõpuks sooritada eksam ja valmistume selleks niimoodi. Kui õpilane siiski vähemalt puudutab keelatud abivahendit, siis ma õpilase sooritust ei hinda.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kui mingi õpiväljundi hinne on 1 või 2, siis saab õpilane minult kaheosalise kooliväliseks lahendamiseks mõeldud ülesannete kogumi, milles tuleb täielikult lahendada õpiväljundiga seotud eestikeelsete sõnade ristsõna ja vähemalt 50 % ulatuses teemakohased matemaatika tervikülesanded korrektselt. Ristsõna lahendamise eesmärk on oskus osata seotud sõnavara eesti keeles, et mõistaksime üksteist paremini. Kui korrektselt lahendatud matemaatikaülesandeid on vähem kui 50 % õpilasele määratud tervikülesannete arvust, siis saab õpilane uued matemaatikaülesanded, mida on sedapuhku kahekordne arv võrreldes eelmise ülesannete arvuga, mis tuleb lahendada samal tingimusel. Kui ka seekord normi ei saavutata, saab õpilane omakorda kahekordse arvu uusi ülesandeid samal tingimusel lahendamiseks ning see protsess võib kesta seni, kuni kestab kursus, mille lõppedes fikseerime kõik hinded lõplikuks kursusehindeks. Mida rohkem õpilane harjutab, seda paremini selgeks teema saab.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kui õpilane saaks testisoorituse hindeks 5 või kaks viit, siis on võimalus, et ta kutsutakse järgmises õppesessioonis, kui ta on kohal, vastavalt esimese kümne või viie minuti kestel tahvlile lahendama sarnast ülesannet ja kaasõpilastele valjuhäälselt selgitama ilma nimetatud keelatud abivahenditeta. Seeläbi kontrollime õpilase tegelikke oskusi ja see on võimalus õpilasel oma mõtteid selgitada. Kui õpilane seeläbi näitab, et ta päriselt oskab, siis saab boonuspunkti. Muul juhul peab õpilane edaspidi samasuguse ajapiiranguga õppesessioonidevahelise kuni 20-min pausi kestel minu antud paberilehele lahendama sarnase ülesande. Iga sellise pausi kestel toimub lahendamine, kuni on tõendatud oskus. Kui õpilane keeldub tahvlile lahendamast, siis ta lahendab samamoodi minu antud paberilehele nimetatud pausi kestel. See reegliosa on sisse seatud seetõttu, et vahel ma näen, et keegi justkui kirjutaks kuskilt maha, aga ma ei näe, kust, ning et vältida olukorda, milles õpilane saab lihtsalt mahakirjutamise eest maksimaalse hinde.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Kursusel on kaheksa õpiväljundit, mille maksimaalne punktide arv on skaalal 1-5 vastavalt 3, 4, 4, 4, 4, 3, 4 ja 5. Kokku on seega võimalik saada 31 punkti terve kursuse peale kokku. Et minimaalne võimalik hinne on 1 ja maksimaalne võimalik hinne on 5, siis hinnete kaalud on vastavalt 0, 0,25, 0,5, 0,75 ja 1. Näiteks, kui sa saavutad esimese õpiväljundi hindele 4, saad (3 punkti) * 0,75 = 2,25 punkti. Kui testis on boonusülesanne, siis selle lahendamise eest on võimalik saada vastavalt märgitud tasemele rohkem punkte - eKoolis kaks viit. Kursusehinne arvutatakse vastavalt õppekavas sätestatud osamääradele. Nt kui sa saad kokku kogu kursuse peale 26,25 punkti, mis moodustab 31&#39;st osa, mis on vahemikus (75 %)-(89 %) lõpphindest, saad kursusehindeks 4.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Eraldi hinnete parandamist me ei tee. Iga lühitest võib olla osaline või täielik eelneva testi järelvastamine. Kuni kursuse lõpuni on võimalik tõendada õpiväljundi saavutamist, kui vastav temaatika on testis. Muul juhul saab õpilane endale vähemalt 3 kujundada vastava õpiväljundi kohta nimetatud koolivälise ülesande sooritamise kaudu.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="268" y="40" width="315" height="1040" as="geometry" />
         </mxCell>
       </root>
