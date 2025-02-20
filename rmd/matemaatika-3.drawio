@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0" version="26.0.5" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 OPR/116.0.0.0" version="26.0.15" pages="2">
   <diagram name="Õpiväljundid" id="HOLbYARwxGNt5G9FzNMO">
     <mxGraphModel dx="980" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -269,6 +269,17 @@
               <mxPoint x="310" y="730" />
               <mxPoint x="390" y="730" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vd2EqS9sF79DkYHTGDT6-1" value="Composite State" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;fontColor=#000000;collapsible=0;rounded=1;arcSize=30;strokeColor=#ff0000;fillColor=#ffffc0;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="761" y="760" width="480" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd2EqS9sF79DkYHTGDT6-2" value=" korrastab üks- ja hulkliikmeid, liidab, lahutab ning korrutab üks- ja hulkliikmeid ning jagab&lt;br/&gt;üksliikmeid ja hulkliiget üksliikmega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Vd2EqS9sF79DkYHTGDT6-1">
+          <mxGeometry y="30" width="480" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vd2EqS9sF79DkYHTGDT6-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Vd2EqS9sF79DkYHTGDT6-1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
