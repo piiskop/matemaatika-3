@@ -274,7 +274,7 @@
         <mxCell id="Vd2EqS9sF79DkYHTGDT6-1" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="460" y="880" width="480" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Vd2EqS9sF79DkYHTGDT6-2" value=" korrastab üks- ja hulkliikmeid, liidab, lahutab ning korrutab üks- ja hulkliikmeid ning jagab&lt;br/&gt;üksliikmeid ja hulkliiget üksliikmega" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Vd2EqS9sF79DkYHTGDT6-1" vertex="1">
+        <mxCell id="Vd2EqS9sF79DkYHTGDT6-2" value=" korrastab üks- ja hulkliikmeid, liidab, lahutab ning korrutab üks- ja hulkliikmeid ning jagab&lt;br&gt;üksliikmeid ja hulkliiget üksliikmega (E, D, C, B)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Vd2EqS9sF79DkYHTGDT6-1" vertex="1">
           <mxGeometry y="30" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Vd2EqS9sF79DkYHTGDT6-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.498;entryY=0.567;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Vd2EqS9sF79DkYHTGDT6-1" edge="1" target="Ve74z0E5zyz4fICTGBpm-38">
@@ -291,7 +291,7 @@
         <mxCell id="Ve74z0E5zyz4fICTGBpm-4" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="585" y="1040" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-5" value="lihtsustab kuni kolmetehtelisi täisavaldisi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ve74z0E5zyz4fICTGBpm-4">
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-5" value="lihtsustab kuni kolmetehtelisi täisavaldisi (D, C)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ve74z0E5zyz4fICTGBpm-4">
           <mxGeometry y="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.486;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="Ve74z0E5zyz4fICTGBpm-4" parent="1" target="Ve74z0E5zyz4fICTGBpm-34">
@@ -308,7 +308,7 @@
         <mxCell id="Ve74z0E5zyz4fICTGBpm-10" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="27.5" y="1730" width="510" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-11" value="&lt;div&gt;taandab ja laiendab algebralist murdu ning liidab, lahutab, korrutab ja jagab kaht algebralist&lt;/div&gt;&lt;div&gt;murdu&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ve74z0E5zyz4fICTGBpm-10">
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-11" value="&lt;div&gt;taandab ja laiendab algebralist murdu ning liidab, lahutab, korrutab ja jagab kaht algebralist&lt;/div&gt;&lt;div&gt;murdu (D)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ve74z0E5zyz4fICTGBpm-10">
           <mxGeometry y="30" width="510" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-12" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Ve74z0E5zyz4fICTGBpm-10" parent="1" target="Ve74z0E5zyz4fICTGBpm-13">
@@ -319,7 +319,7 @@
         <mxCell id="Ve74z0E5zyz4fICTGBpm-13" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="1880" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-14" value="lihtsustab kahetehtelisi ratsionaalavaldisi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ve74z0E5zyz4fICTGBpm-13">
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-14" value="lihtsustab kahetehtelisi ratsionaalavaldisi (D, C)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="Ve74z0E5zyz4fICTGBpm-13">
           <mxGeometry y="30" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Ve74z0E5zyz4fICTGBpm-13" parent="1">
