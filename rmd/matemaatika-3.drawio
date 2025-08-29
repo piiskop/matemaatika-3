@@ -534,6 +534,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IJQwrk6Sp_N847dFv2nT-19" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#97D9FF;fillColor=#fff2cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-860" y="66" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IJQwrk6Sp_N847dFv2nT-20" value="kasutab tabelarvutusprogrammi andmete esitamiseks, töötlemiseks ja tulemuste tõlgendamiseks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="IJQwrk6Sp_N847dFv2nT-19">
+          <mxGeometry y="30" width="530" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
