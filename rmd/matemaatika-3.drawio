@@ -101,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IJQwrk6Sp_N847dFv2nT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H3njUC9bQLBFBT5jkG47-38" target="IJQwrk6Sp_N847dFv2nT-8" edge="1">
+        <mxCell id="IJQwrk6Sp_N847dFv2nT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H3njUC9bQLBFBT5jkG47-38" target="AtV3VSH8hDh6m8e9UaDK-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="30" y="125" />
@@ -485,7 +485,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IJQwrk6Sp_N847dFv2nT-8" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="-550" y="160" width="590" height="80" as="geometry" />
+          <mxGeometry x="-570" y="265" width="590" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IJQwrk6Sp_N847dFv2nT-9" value="iseloomustab andmestikku aritmeetilise keskmise, mediaani, moodi, miinimumi, maksimumi ja ulatuse järgi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="IJQwrk6Sp_N847dFv2nT-8" vertex="1">
           <mxGeometry y="30" width="590" height="50" as="geometry" />
@@ -565,6 +565,15 @@
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-12" value="loeb, mõistab ja selgitab andmeid tabelist, tulp-, sektor-, joon- ja punktdiagrammilt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="AtV3VSH8hDh6m8e9UaDK-11">
           <mxGeometry y="30" width="450" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-14" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#D6B656;fillColor=#fff2cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="140" width="470" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-15" value="&amp;nbsp;teab andmete liike ja andmete kogumise erinevaid meetodeid (mõõtmine, küsimustik)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="AtV3VSH8hDh6m8e9UaDK-14">
+          <mxGeometry y="30" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AtV3VSH8hDh6m8e9UaDK-15" target="IJQwrk6Sp_N847dFv2nT-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
