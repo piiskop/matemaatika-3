@@ -564,7 +564,7 @@
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-12" value="loeb, mõistab ja selgitab andmeid tabelist, tulp-, sektor-, joon- ja punktdiagrammilt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="AtV3VSH8hDh6m8e9UaDK-11">
           <mxGeometry y="30" width="450" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AtV3VSH8hDh6m8e9UaDK-14" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#A50040;fillColor=#d80073;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-14" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="-490" y="140" width="470" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-15" value="&amp;nbsp;teab andmete liike ja andmete kogumise erinevaid meetodeid (mõõtmine, küsimustik)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="AtV3VSH8hDh6m8e9UaDK-14">
