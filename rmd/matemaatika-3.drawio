@@ -498,7 +498,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IJQwrk6Sp_N847dFv2nT-12" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="-500" y="420" width="530" height="80" as="geometry" />
+          <mxGeometry x="-510" y="605" width="530" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IJQwrk6Sp_N847dFv2nT-13" value="väljendab protsentides esitatud informatsiooni visuaalselt (graafikud, diagrammid) ja vastupidi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="IJQwrk6Sp_N847dFv2nT-12" vertex="1">
           <mxGeometry y="30" width="530" height="50" as="geometry" />
@@ -514,9 +514,13 @@
         <mxCell id="IJQwrk6Sp_N847dFv2nT-14" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="-110" y="370" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IJQwrk6Sp_N847dFv2nT-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="IJQwrk6Sp_N847dFv2nT-14" target="IJQwrk6Sp_N847dFv2nT-12" edge="1">
+        <mxCell id="IJQwrk6Sp_N847dFv2nT-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.825;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IJQwrk6Sp_N847dFv2nT-14" target="AtV3VSH8hDh6m8e9UaDK-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-245" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-10" y="410" />
+              <mxPoint x="-445" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="IJQwrk6Sp_N847dFv2nT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.595;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IJQwrk6Sp_N847dFv2nT-13" target="AtV3VSH8hDh6m8e9UaDK-19" edge="1">
@@ -534,7 +538,7 @@
           <mxGeometry y="30" width="530" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-1" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#D6B656;fillColor=#fff2cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="490" width="450" height="80" as="geometry" />
+          <mxGeometry x="-1010" y="685" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-2" value="&amp;nbsp;illustreerib IKT-vahendite abil andmeid tulp-, sektor-, joon- ja punktdiagrammiga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="AtV3VSH8hDh6m8e9UaDK-1">
           <mxGeometry y="30" width="450" height="50" as="geometry" />
@@ -553,11 +557,18 @@
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.694;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HqBFGBw3zhF2iMlEuoAb-18" target="H3njUC9bQLBFBT5jkG47-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AtV3VSH8hDh6m8e9UaDK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AtV3VSH8hDh6m8e9UaDK-11" target="AtV3VSH8hDh6m8e9UaDK-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.19;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.605;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AtV3VSH8hDh6m8e9UaDK-35" target="AtV3VSH8hDh6m8e9UaDK-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-733" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-733" y="518" />
+              <mxPoint x="-733" y="540" />
+              <mxPoint x="-572" y="540" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-11" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#D6B656;fillColor=#fff2cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="390" width="450" height="80" as="geometry" />
+          <mxGeometry x="-980" y="390" width="450" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-12" value="loeb, mõistab ja selgitab andmeid tabelist, tulp-, sektor-, joon- ja punktdiagrammilt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="AtV3VSH8hDh6m8e9UaDK-11">
           <mxGeometry y="30" width="450" height="50" as="geometry" />
@@ -629,6 +640,28 @@
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-31" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="AtV3VSH8hDh6m8e9UaDK-30" parent="1" target="IJQwrk6Sp_N847dFv2nT-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-684" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-33" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="560" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-34" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="AtV3VSH8hDh6m8e9UaDK-33" parent="1" target="IJQwrk6Sp_N847dFv2nT-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-510" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-35" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-855" y="510" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-36" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="AtV3VSH8hDh6m8e9UaDK-35" parent="1" target="AtV3VSH8hDh6m8e9UaDK-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-755" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.115;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AtV3VSH8hDh6m8e9UaDK-12" target="AtV3VSH8hDh6m8e9UaDK-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-834" y="510" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
