@@ -360,7 +360,7 @@
           <mxGeometry y="30" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-31" value="6" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#6c8ebf;fillColor=#dae8fc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="1620" width="500" height="70" as="geometry" />
+          <mxGeometry x="293.13" y="1690" width="500" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-32" value="&lt;div&gt;koostab ja lahendab tekstülesandeid, mis lahenduvad võrrandi või võrrandisüsteemi abil (sh&lt;/div&gt;&lt;div&gt;võrdelise jaotamise ülesandeid) (A)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-31" vertex="1">
           <mxGeometry y="30" width="500" height="40" as="geometry" />
@@ -663,8 +663,29 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ve74z0E5zyz4fICTGBpm-14" target="AtV3VSH8hDh6m8e9UaDK-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ve74z0E5zyz4fICTGBpm-29" target="Ve74z0E5zyz4fICTGBpm-31">
+        <mxCell id="RbWkgESCxtiouCLkFaxP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.305;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ve74z0E5zyz4fICTGBpm-29" target="RbWkgESCxtiouCLkFaxP-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-3" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1690" width="630" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-4" value="&amp;nbsp;selgitab ruutfunktsiooni nullkohtade ja haripunkti tähendust ja omavahelist seost, leiab need valemist ning jooniselt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-3">
+          <mxGeometry y="30" width="630" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-5" target="Ve74z0E5zyz4fICTGBpm-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-5" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1600" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="RbWkgESCxtiouCLkFaxP-5" parent="1" target="RbWkgESCxtiouCLkFaxP-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="1600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="1650" />
+              <mxPoint x="1135" y="1650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
