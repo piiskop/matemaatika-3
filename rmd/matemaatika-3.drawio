@@ -196,7 +196,7 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-11" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="430" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-12" value="&amp;nbsp;teisendab protsendi kümnendmurruks ja harilikuks murruks ning vastupidi;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-11" vertex="1">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-12" value="&amp;nbsp;teisendab protsendi kümnendmurruks ja harilikuks murruks ning vastupidi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-11" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-10" target="IJQwrk6Sp_N847dFv2nT-14" edge="1">
@@ -514,12 +514,12 @@
         <mxCell id="IJQwrk6Sp_N847dFv2nT-14" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="-110" y="370" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="IJQwrk6Sp_N847dFv2nT-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.825;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IJQwrk6Sp_N847dFv2nT-14" target="AtV3VSH8hDh6m8e9UaDK-33" edge="1">
+        <mxCell id="IJQwrk6Sp_N847dFv2nT-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.825;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-11" target="AtV3VSH8hDh6m8e9UaDK-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-245" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-10" y="410" />
-              <mxPoint x="-445" y="410" />
+              <mxPoint x="80" y="540" />
+              <mxPoint x="-445" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
