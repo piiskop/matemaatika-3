@@ -69,7 +69,7 @@
           <mxGeometry y="30" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-26" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="600" y="-340" width="30" height="30" as="geometry" />
+          <mxGeometry x="600" y="-470" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H3njUC9bQLBFBT5jkG47-36" target="H3njUC9bQLBFBT5jkG47-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -549,7 +549,7 @@
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-2" value="&amp;nbsp;illustreerib IKT-vahendite abil andmeid tulp-, sektor-, joon- ja punktdiagrammiga" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="AtV3VSH8hDh6m8e9UaDK-1" vertex="1">
           <mxGeometry y="30" width="450" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AtV3VSH8hDh6m8e9UaDK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.899;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H3njUC9bQLBFBT5jkG47-26" target="H3njUC9bQLBFBT5jkG47-38" edge="1">
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H3njUC9bQLBFBT5jkG47-26" target="RbWkgESCxtiouCLkFaxP-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AtV3VSH8hDh6m8e9UaDK-2" target="AtV3VSH8hDh6m8e9UaDK-19" edge="1">
@@ -1026,6 +1026,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.34;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-12" target="RbWkgESCxtiouCLkFaxP-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-91" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="-390" width="380" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-92" value="&amp;nbsp;otsib, loeb ja mõistab iseseisvalt õppematerjalides olevaid tekste" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-91">
+          <mxGeometry y="30" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-91" target="H3njUC9bQLBFBT5jkG47-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
