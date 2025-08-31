@@ -722,7 +722,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-11" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="1880" width="1130" height="70" as="geometry" />
+          <mxGeometry x="560" y="2050" width="1130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-12" value="&amp;nbsp;selgitab arvutiga tehtud dünaamilisi jooniseid kasutades funktsiooni graafiku asendi ja kuju sõltuvust funktsiooni avaldises olevatest kordajatest (ruutfunktsiooni korral ainult ruutliikme kordajast ja vabaliikmest)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-11">
           <mxGeometry y="30" width="1130" height="40" as="geometry" />
@@ -751,7 +751,7 @@
           <mxGeometry y="30" width="420" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-20" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="1790" width="450" height="70" as="geometry" />
+          <mxGeometry x="1580" y="1910" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-21" value="leiab täisnurkse kolmnurga joonelemendid (sh kasutades trigonomeetrilisi seoseid)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-20">
           <mxGeometry y="30" width="450" height="40" as="geometry" />
@@ -783,7 +783,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-29" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="1680" width="650" height="70" as="geometry" />
+          <mxGeometry x="1850" y="1820" width="650" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-30" value="&amp;nbsp;lahendab geomeetrilise sisuga probleemülesandeid (sh kasutades korrapärase hulknurga omadusi, Thalese teoreemi)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-29">
           <mxGeometry y="30" width="650" height="40" as="geometry" />
@@ -791,8 +791,16 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-31" target="RbWkgESCxtiouCLkFaxP-52">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1360" y="270" />
+              <mxPoint x="1340" y="270" />
               <mxPoint x="2135" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-31" target="RbWkgESCxtiouCLkFaxP-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="260" />
+              <mxPoint x="2550" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -804,8 +812,13 @@
             <mxPoint x="1350" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-35" target="RbWkgESCxtiouCLkFaxP-29">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RbWkgESCxtiouCLkFaxP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.12;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-35" target="RbWkgESCxtiouCLkFaxP-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1840" y="1580" />
+              <mxPoint x="2054" y="1580" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-35" target="RbWkgESCxtiouCLkFaxP-38">
           <mxGeometry relative="1" as="geometry">
@@ -833,13 +846,13 @@
           <mxGeometry y="30" width="550" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-41" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1910" width="740" height="70" as="geometry" />
+          <mxGeometry x="1880" y="2040" width="740" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-42" value="&amp;nbsp;arvutab tasandiliste kujundite (korrapärane hulknurk, kolmnurk, rööpkülik, romb, trapets, ring) joonelemendid, ümbermõõdu, pindala" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-41">
           <mxGeometry y="30" width="740" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-43" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="1880" width="200" height="10" as="geometry" />
+          <mxGeometry x="2150" y="2010" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-44" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="RbWkgESCxtiouCLkFaxP-43" parent="1" target="RbWkgESCxtiouCLkFaxP-41">
           <mxGeometry relative="1" as="geometry">
@@ -849,8 +862,8 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-21" target="RbWkgESCxtiouCLkFaxP-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1805" y="1870" />
-              <mxPoint x="2165" y="1870" />
+              <mxPoint x="1805" y="2000" />
+              <mxPoint x="2165" y="2000" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -860,13 +873,13 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.86;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-39" target="RbWkgESCxtiouCLkFaxP-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2600" y="1787" />
-              <mxPoint x="2322" y="1787" />
+              <mxPoint x="2600" y="1940" />
+              <mxPoint x="2322" y="1940" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-49" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="1955" y="2000" width="590" height="70" as="geometry" />
+          <mxGeometry x="1955" y="2130" width="590" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-50" value="&amp;nbsp;arvutab ruumiliste kujundite (püstprisma, püramiid, silinder, koonus, kera) joonelemendid, pindala ja ruumala" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-49">
           <mxGeometry y="30" width="590" height="40" as="geometry" />
@@ -879,6 +892,28 @@
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-53" value="&amp;nbsp;teab kolmnurga ja trapetsi kesklõigu mõistet ning nende omadusi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-52">
           <mxGeometry y="30" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-55" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="285" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-56" value="&amp;nbsp;teab kesk- ja piirdenurga mõisteid ning nendevahelist seost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-55">
+          <mxGeometry y="30" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-58" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="1740" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-59" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="RbWkgESCxtiouCLkFaxP-58" parent="1" target="RbWkgESCxtiouCLkFaxP-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2290" y="1800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-56" target="RbWkgESCxtiouCLkFaxP-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2550" y="480" />
+              <mxPoint x="2180" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
