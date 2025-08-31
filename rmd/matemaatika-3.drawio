@@ -804,6 +804,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-31" target="RbWkgESCxtiouCLkFaxP-62">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1290" y="260" />
+              <mxPoint x="940" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-31" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1190" y="240" width="200" height="10" as="geometry" />
         </mxCell>
@@ -914,6 +922,12 @@
               <mxPoint x="2180" y="480" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-62" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="280" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-63" value="&amp;nbsp;teab ringjoone puutuja mõistet ja omadust" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-62">
+          <mxGeometry y="30" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
