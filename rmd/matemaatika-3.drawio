@@ -1111,6 +1111,18 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-123" value="&amp;nbsp;eristab hüpoteesi, eeldust, väidet ja tõestust, selgitab mõne teoreemi tõestuskäiku, vajaduse korral tuletab lihtsamaid valemeid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-122">
           <mxGeometry y="30" width="700" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-124" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="2400" width="1130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-125" value="&amp;nbsp;selgitab arvutiga tehtud dünaamilisi jooniseid kasutades funktsiooni graafiku asendi ja kuju sõltuvust funktsiooni avaldises olevatest kordajatest (ruutfunktsiooni korral ainult ruutliikme kordajast ja vabaliikmest)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-124">
+          <mxGeometry y="30" width="1130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-126" value="5" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#82b366;fillColor=#d5e8d4;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="2860" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-127" value="&amp;nbsp;sõnastab oma tõlgendusi ja põhjendusi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-126">
+          <mxGeometry y="30" width="250" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
