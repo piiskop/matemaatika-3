@@ -799,6 +799,14 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-35" target="RbWkgESCxtiouCLkFaxP-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-35" target="RbWkgESCxtiouCLkFaxP-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1890" y="1550" />
+              <mxPoint x="2485" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-35" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="1740" y="1520" width="200" height="10" as="geometry" />
         </mxCell>
@@ -809,6 +817,12 @@
               <mxPoint x="1728" y="1592" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-38" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="1584" width="550" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-39" value="kasutab probleemülesannete lahendamiseks hulknurkade sarnasust (nt maa-alade plaanistamine)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-38">
+          <mxGeometry y="30" width="550" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
