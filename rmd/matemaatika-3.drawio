@@ -69,7 +69,7 @@
           <mxGeometry y="30" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-26" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="-10" width="30" height="30" as="geometry" />
+          <mxGeometry x="600" y="-260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H3njUC9bQLBFBT5jkG47-36" target="H3njUC9bQLBFBT5jkG47-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -109,10 +109,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-38" target="RbWkgESCxtiouCLkFaxP-14">
+        <mxCell id="RbWkgESCxtiouCLkFaxP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-72" target="RbWkgESCxtiouCLkFaxP-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="100" />
+              <mxPoint x="676" y="60" />
+              <mxPoint x="1240" y="60" />
+              <mxPoint x="1240" y="100" />
               <mxPoint x="1425" y="100" />
             </Array>
           </mxGeometry>
@@ -120,13 +122,21 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-38" target="RbWkgESCxtiouCLkFaxP-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="80" />
-              <mxPoint x="2205" y="80" />
+              <mxPoint x="690" y="-80" />
+              <mxPoint x="2205" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-38" target="RbWkgESCxtiouCLkFaxP-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="-170" />
+              <mxPoint x="530" y="-170" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-38" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="48" width="1350" height="10" as="geometry" />
+          <mxGeometry x="-600" y="-200" width="1350" height="10" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-42" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="570" y="220" width="200" height="10" as="geometry" />
@@ -975,6 +985,12 @@
               <mxPoint x="541" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-72" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="450.63" y="-40" width="450" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-73" value="&amp;nbsp;kirjeldab kujundite omadusi ning klassifitseerib kujundeid ühiste omaduste põhjal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="RbWkgESCxtiouCLkFaxP-72">
+          <mxGeometry y="30" width="450" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
