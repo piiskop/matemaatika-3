@@ -215,11 +215,11 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-10" value="selgitab protsendi, promilli ja protsendipunkti mõiste tähendust" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-9" vertex="1">
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-11" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;gradientColor=none;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="345" width="250" height="80" as="geometry" />
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-11" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;gradientColor=none;shadow=0;glass=0;swimlaneLine=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="310" width="250" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-12" value="5. teisendab protsendi kümnendmurruks ja harilikuks murruks ning vastupidi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-11" vertex="1">
-          <mxGeometry y="30" width="250" height="50" as="geometry" />
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-12" value="5. teisendab protsendi kümnendmurruks ja harilikuks murruks ning vastupidi:&lt;div&gt;&lt;br&gt;&lt;div&gt;Andrei Aksjonov&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-11" vertex="1">
+          <mxGeometry y="30" width="250" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.9;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-14" target="IJQwrk6Sp_N847dFv2nT-4" edge="1">
           <mxGeometry relative="1" as="geometry">
