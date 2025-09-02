@@ -1031,7 +1031,7 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.845;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RbWkgESCxtiouCLkFaxP-115" target="AtV3VSH8hDh6m8e9UaDK-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-118" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="RbWkgESCxtiouCLkFaxP-118" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-555" y="470" width="760" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-119" value="selgitab tõenäosuse tähendust, arvutab elulistel juhtudel sündmuse tõenäosuse (sh mündivise, täringu veeretamine, kaardimäng, loosimine)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-118" vertex="1">
