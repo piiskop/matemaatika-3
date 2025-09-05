@@ -359,11 +359,11 @@
         <mxCell id="Ve74z0E5zyz4fICTGBpm-23" value="35. mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose (nt liikumisel teepikkus, aeg, kiirus) (E)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-22" vertex="1">
           <mxGeometry y="30" width="500" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-25" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1390" width="490" height="70" as="geometry" />
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-25" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1390" width="490" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-26" value="&lt;div&gt;37. lahendab lineaar- ja võrdekujulisi võrrandeid ning lineaarvõrrandisüsteeme kasutades&lt;/div&gt;&lt;div&gt;võrrandi põhiomadusi (sh graafiliselt ning arvutiprogrammide abil) (C, B)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-25" vertex="1">
-          <mxGeometry y="30" width="490" height="40" as="geometry" />
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-26" value="&lt;div&gt;37. lahendab lineaar- ja võrdekujulisi võrrandeid ning lineaarvõrrandisüsteeme kasutades&lt;/div&gt;&lt;div&gt;võrrandi põhiomadusi (sh graafiliselt ning arvutiprogrammide abil) (C, B):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Maksim Mihhailov&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-25" vertex="1">
+          <mxGeometry y="30" width="490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.805;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ve74z0E5zyz4fICTGBpm-25" target="AtV3VSH8hDh6m8e9UaDK-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -422,7 +422,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="550" y="1470" />
-              <mxPoint x="660" y="1470" />
+              <mxPoint x="600" y="1470" />
+              <mxPoint x="600" y="1523" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -572,7 +573,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-24" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="585" y="1480" width="200" height="10" as="geometry" />
+          <mxGeometry x="581.87" y="1520" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-27" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="155" y="1535" width="200" height="10" as="geometry" />
