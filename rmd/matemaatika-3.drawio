@@ -376,7 +376,7 @@
         <mxCell id="Ve74z0E5zyz4fICTGBpm-29" value="38. lahendab täielikke ja mittetäielikke ruutvõrrandeid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-28" vertex="1">
           <mxGeometry y="30" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-31" value="6" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#6c8ebf;fillColor=#dae8fc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-31" value="6" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#6c8ebf;fillColor=#dae8fc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="290" y="1800" width="500" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-32" value="&lt;div&gt;39. koostab ja lahendab tekstülesandeid, mis lahenduvad võrrandi või võrrandisüsteemi abil (sh&lt;/div&gt;&lt;div&gt;võrdelise jaotamise ülesandeid) (A)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-31" vertex="1">
