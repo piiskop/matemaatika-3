@@ -1176,6 +1176,12 @@
         <mxCell id="5Gp6O5j-MK6WKP8-475v-2" value="leiab lihtsamaid määramata ja määratud integraale., kasutab määratud integraali lihtsamate tasandiliste kujundite pindala ja ruumiliste kujundite ruumala arvutamiseks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5Gp6O5j-MK6WKP8-475v-1">
           <mxGeometry y="30" width="920" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="5Gp6O5j-MK6WKP8-475v-3" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="990" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5Gp6O5j-MK6WKP8-475v-4" value="teab mitme muutuja funktsiooni, selle osatuletiste mõisteid, oskab lahendada lihtsamaid ekstreemumülesandeid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" vertex="1" parent="5Gp6O5j-MK6WKP8-475v-3">
+          <mxGeometry y="30" width="610" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
