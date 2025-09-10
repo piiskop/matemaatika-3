@@ -28,11 +28,11 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-6" value="17. põhjendab ja kasutab astendamisreegleid (D, C)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-5" vertex="1">
           <mxGeometry y="30" width="246.25" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-8" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="540" y="128" width="260" height="112" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-8" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="540" y="80" width="260" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-9" value="14. selgitab naturaalarvulise astendajaga astendamise tähendust (E)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Andrei: 5&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-8" vertex="1">
-          <mxGeometry y="30" width="260" height="82" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-9" value="14. selgitab naturaalarvulise astendajaga astendamise tähendust (E)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Andrei Aksjonov&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-8" vertex="1">
+          <mxGeometry y="30" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-11" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="546.88" y="520" width="250" height="80" as="geometry" />
@@ -90,8 +90,8 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H3njUC9bQLBFBT5jkG47-38" target="H3njUC9bQLBFBT5jkG47-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="110" />
-              <mxPoint x="660" y="110" />
+              <mxPoint x="400" y="60" />
+              <mxPoint x="660" y="60" />
             </Array>
           </mxGeometry>
         </mxCell>
