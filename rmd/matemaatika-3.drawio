@@ -854,7 +854,7 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-53" value="48. teab kolmnurga ja trapetsi kesklõigu mõistet ning nende omadusi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-52" vertex="1">
           <mxGeometry y="30" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-55" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="RbWkgESCxtiouCLkFaxP-55" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="326.87" y="1960" width="360" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-56" value="29. teab kesk- ja piirdenurga mõisteid ning nendevahelist seost" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-55" vertex="1">
@@ -1052,10 +1052,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-122" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="2700" width="700" height="110" as="geometry" />
+          <mxGeometry x="1890" y="2730" width="700" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-123" value="51. eristab hüpoteesi, eeldust, väidet ja tõestust, selgitab mõne teoreemi tõestuskäiku, vajaduse korral tuletab lihtsamaid valemeid&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-122" vertex="1">
-          <mxGeometry y="30" width="700" height="80" as="geometry" />
+        <mxCell id="RbWkgESCxtiouCLkFaxP-123" value="51. eristab hüpoteesi, eeldust, väidet ja tõestust, selgitab mõne teoreemi tõestuskäiku, vajaduse korral tuletab lihtsamaid valemeid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-122" vertex="1">
+          <mxGeometry y="30" width="700" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-126" value="5" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#82b366;fillColor=#d5e8d4;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="1840" y="2860" width="250" height="70" as="geometry" />
