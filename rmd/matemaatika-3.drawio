@@ -681,7 +681,7 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RbWkgESCxtiouCLkFaxP-9" target="RbWkgESCxtiouCLkFaxP-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="RbWkgESCxtiouCLkFaxP-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="810" y="80" width="1130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-15" value="28. joonestab ja konstrueerib (käsitsi ja arvutiga) tasandilisi kujundeid (korrapärane hulknurk, kolmnurk, rööpkülik, trapets, ring) etteantud elementide järgi korrapärase hulknurga ja kolmnurga sise-ja ümberringjoone" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-14" vertex="1">
