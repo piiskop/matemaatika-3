@@ -59,10 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-20" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="100" width="250" height="100" as="geometry" />
+          <mxGeometry x="250" y="70" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-21" value="13. ümardab ratsionaalarve etteantud järguni&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mikaela Galperman&lt;/div&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" parent="H3njUC9bQLBFBT5jkG47-20" vertex="1">
-          <mxGeometry y="30" width="250" height="70" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-21" value="13. ümardab ratsionaalarve etteantud järguni&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mikaela Galperman&lt;/div&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Maia Tukkia&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" parent="H3njUC9bQLBFBT5jkG47-20" vertex="1">
+          <mxGeometry y="30" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-23" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="315" y="585" width="235" height="120" as="geometry" />
