@@ -886,7 +886,7 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-65" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="550" y="-360" width="500" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-66" value="25. teab põik- ja lähisnurkade mõisteid ja nende nurkade seoseid paralleelsete sirgete korral:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Mikaela Galperman&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Andrei Aksjonov&lt;/div&gt;&lt;div&gt;Sergo Klišin&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-65" vertex="1">
+        <mxCell id="RbWkgESCxtiouCLkFaxP-66" value="25. teab põik- ja lähisnurkade mõisteid ja nende nurkade seoseid paralleelsete sirgete korral:&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Mikaela Galperman&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-65" vertex="1">
           <mxGeometry y="30" width="500" height="110" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.22;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ve74z0E5zyz4fICTGBpm-11" target="RbWkgESCxtiouCLkFaxP-69" edge="1">
@@ -921,10 +921,10 @@
           <mxGeometry y="30" width="450" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-77" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="650" y="-140" width="300" height="70" as="geometry" />
+          <mxGeometry x="650" y="-190" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-78" value="26. põhjendab ja kasutab sirgete paralleelsuse tunnuseid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-77" vertex="1">
-          <mxGeometry y="30" width="300" height="40" as="geometry" />
+        <mxCell id="RbWkgESCxtiouCLkFaxP-78" value="26. põhjendab ja kasutab sirgete paralleelsuse tunnuseid&lt;br&gt;&lt;br&gt;&lt;div&gt;Andrei Aksjonov&lt;/div&gt;&lt;div&gt;Sergo Klišin&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-77" vertex="1">
+          <mxGeometry y="30" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RbWkgESCxtiouCLkFaxP-66" target="RbWkgESCxtiouCLkFaxP-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
