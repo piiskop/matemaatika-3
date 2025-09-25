@@ -307,10 +307,10 @@
           <mxGeometry y="30" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-1" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="172.5" y="1060" width="520" height="160" as="geometry" />
+          <mxGeometry x="172.5" y="1050" width="520" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-2" value="&lt;div&gt;23. tegurdab hulkliikmeid (toob teguri sulgude ette, kasutab ja põhjendab ruutude vahe, summa&lt;/div&gt;&lt;div&gt;ruudu ja vahe ruudu abivalemeid, tegurdab ruutkolmliiget)&lt;br&gt;&lt;br&gt;Margus Evart&lt;br&gt;Veniamin Postolenko&lt;br&gt;Angelina Solovjova&lt;br&gt;Ivan Timakin&lt;br&gt;Evelina Tolli&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-1" vertex="1">
-          <mxGeometry y="30" width="520" height="130" as="geometry" />
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-2" value="&lt;div&gt;23. tegurdab hulkliikmeid (toob teguri sulgude ette, kasutab ja põhjendab ruutude vahe, summa&lt;/div&gt;&lt;div&gt;ruudu ja vahe ruudu abivalemeid, tegurdab ruutkolmliiget)&lt;br&gt;&lt;br&gt;Margus Evart&lt;br&gt;Veniamin Postolenko&lt;br&gt;Angelina Solovjova&lt;br&gt;Ivan Timakin&lt;br&gt;Evelina Tolli&lt;br&gt;Martin Tolli&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-1" vertex="1">
+          <mxGeometry y="30" width="520" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-4" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="757" width="240" height="70" as="geometry" />
