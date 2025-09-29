@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.3" pages="3">
   <diagram name="Õpiväljundid" id="HOLbYARwxGNt5G9FzNMO">
-    <mxGraphModel dx="3764" dy="2394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="3764" dy="2517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -307,10 +307,10 @@
           <mxGeometry y="30" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-1" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="172.5" y="1050" width="520" height="170" as="geometry" />
+          <mxGeometry x="172.5" y="1050" width="520" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-2" value="&lt;div&gt;23. tegurdab hulkliikmeid (toob teguri sulgude ette, kasutab ja põhjendab ruutude vahe, summa&lt;/div&gt;&lt;div&gt;ruudu ja vahe ruudu abivalemeid, tegurdab ruutkolmliiget)&lt;br&gt;&lt;br&gt;Margus Evart&lt;br&gt;Veniamin Postolenko&lt;br&gt;Angelina Solovjova&lt;br&gt;Ivan Timakin&lt;br&gt;Evelina Tolli&lt;br&gt;Martin Tolli&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-1" vertex="1">
-          <mxGeometry y="30" width="520" height="140" as="geometry" />
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-2" value="&lt;div&gt;23. tegurdab hulkliikmeid (toob teguri sulgude ette, kasutab ja põhjendab ruutude vahe, summa&lt;/div&gt;&lt;div&gt;ruudu ja vahe ruudu abivalemeid, tegurdab ruutkolmliiget)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-1" vertex="1">
+          <mxGeometry y="30" width="520" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-4" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="757" width="240" height="70" as="geometry" />
