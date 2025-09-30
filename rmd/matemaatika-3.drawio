@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5" pages="3">
   <diagram name="Õpiväljundid" id="HOLbYARwxGNt5G9FzNMO">
-    <mxGraphModel dx="3764" dy="2394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="3385" dy="2394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1099,7 +1099,7 @@
         <mxCell id="WUKMzp27ts2vTvRIiVH6-10" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="-500" y="1690" width="590" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WUKMzp27ts2vTvRIiVH6-11" value="leiab arvu ruudu, kuubi, vastandarvu, pöördarvu ja absoluutväärtuse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="WUKMzp27ts2vTvRIiVH6-10" vertex="1">
+        <mxCell id="WUKMzp27ts2vTvRIiVH6-11" value="52. leiab arvu ruudu, kuubi, vastandarvu, pöördarvu ja absoluutväärtuse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="WUKMzp27ts2vTvRIiVH6-10" vertex="1">
           <mxGeometry y="30" width="590" height="50" as="geometry" />
         </mxCell>
         <mxCell id="WUKMzp27ts2vTvRIiVH6-13" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
