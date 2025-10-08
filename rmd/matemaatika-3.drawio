@@ -225,19 +225,19 @@
           <mxGeometry y="30" width="250" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="930" width="500" height="80" as="geometry" />
+          <mxGeometry x="-370" y="930" width="580" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-15" value="&lt;div&gt;9. lahendab protsentarvutuse tüüpülesandeid (osa leidmine, terviku leidmine, osamäära&lt;/div&gt;&lt;div&gt;leidmine, suuruse muutumine)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-14" vertex="1">
-          <mxGeometry y="30" width="500" height="50" as="geometry" />
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-15" value="&lt;div&gt;9. lahendab protsentarvutuse tüüpülesandeid (osa leidmine, terviku leidmine, osamäära l&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;eidmine, suuruse muutumine)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-14" vertex="1">
+          <mxGeometry y="30" width="580" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-12" target="RbWkgESCxtiouCLkFaxP-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-17" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="800" width="280" height="90" as="geometry" />
+          <mxGeometry x="-180" y="800" width="370" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-18" value="&lt;div&gt;8. kasutab protsentarvutusel erinevaid lahendusmeetodeid (ühikumeetod, võrre, skeem,&lt;/div&gt;&lt;div&gt;algoritm)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-17" vertex="1">
-          <mxGeometry y="30" width="280" height="60" as="geometry" />
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-18" value="&lt;div&gt;8. kasutab protsentarvutusel erinevaid lahendusmeetodeid (ühikumeetod, võrre, skeem,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;algoritm)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-17" vertex="1">
+          <mxGeometry y="30" width="370" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H3njUC9bQLBFBT5jkG47-9" target="H3njUC9bQLBFBT5jkG47-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
