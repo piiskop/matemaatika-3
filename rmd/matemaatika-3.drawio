@@ -8,7 +8,7 @@
           <mxGeometry x="80" y="2040" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-2" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="554.38" y="640" width="242.5" height="80" as="geometry" />
+          <mxGeometry x="615" y="640" width="242.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-3" value="50. kirjutab suuri ja väikseid arve standardkujul (B)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-2" vertex="1">
           <mxGeometry y="30" width="242.5" height="50" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry y="30" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-23" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="315" y="585" width="235" height="120" as="geometry" />
+          <mxGeometry x="242.5" y="600" width="347.5" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-29" value="&lt;div&gt;18. liidab, lahutab, korrutab, jagab ja astendab naturaalarvulise astendajaga ratsionaalarve peast,&lt;/div&gt;&lt;div&gt;kirjalikult ja taskuarvutiga ning rakendab tehete järjekorda (B)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-23" vertex="1">
-          <mxGeometry y="30" width="235" height="90" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-29" value="&lt;div&gt;18. liidab, lahutab, korrutab, jagab ja astendab naturaalarvulise astendajaga ratsionaalarve peast,&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;kirjalikult ja taskuarvutiga ning rakendab tehete järjekorda (B)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-23" vertex="1">
+          <mxGeometry y="30" width="347.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-26" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="600" y="-530" width="30" height="30" as="geometry" />
@@ -1001,10 +1001,7 @@
           <mxGeometry x="-620" y="1400" width="620" height="120" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-104" value="12. kasutab protsentarvutust otsuse tegemiseks ja põhjendamiseks (nt laen, hoius, intress, maksud, investeerimine)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Andrei Aksjonov&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-103" vertex="1">
-          <mxGeometry y="30" width="620" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RbWkgESCxtiouCLkFaxP-105" value="&lt;div&gt;Arina Lisogor (astendamine E)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-103" vertex="1">
-          <mxGeometry y="70" width="620" height="50" as="geometry" />
+          <mxGeometry y="30" width="620" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.195;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RbWkgESCxtiouCLkFaxP-103" target="WUKMzp27ts2vTvRIiVH6-13" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1112,6 +1109,9 @@
         </mxCell>
         <mxCell id="WUKMzp27ts2vTvRIiVH6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="WUKMzp27ts2vTvRIiVH6-11" target="WUKMzp27ts2vTvRIiVH6-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RbWkgESCxtiouCLkFaxP-105" value="&lt;div&gt;Arina Lisogor (astendamine E)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="1800" width="620" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
