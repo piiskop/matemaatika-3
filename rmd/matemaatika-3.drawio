@@ -360,10 +360,10 @@
           <mxGeometry y="30" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-25" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="1390" width="490" height="110" as="geometry" />
+          <mxGeometry x="620" y="1405" width="620" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-26" value="&lt;div&gt;37. lahendab lineaar- ja võrdekujulisi võrrandeid ning lineaarvõrrandisüsteeme kasutades&lt;/div&gt;&lt;div&gt;võrrandi põhiomadusi (sh graafiliselt ning arvutiprogrammide abil) (C, B)&lt;br&gt;&lt;br&gt;Margarita Mussijenko&lt;br&gt;Maia Tukkia&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-25" vertex="1">
-          <mxGeometry y="30" width="490" height="80" as="geometry" />
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-26" value="&lt;div&gt;37. lahendab lineaar- ja võrdekujulisi võrrandeid ning lineaarvõrrandisüsteeme kasutades&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;võrrandi põhiomadusi (sh graafiliselt ning arvutiprogrammide abil) (C, B)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;Margarita Mussijenko&lt;br&gt;Maia Tukkia&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-25" vertex="1">
+          <mxGeometry y="30" width="620" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-27" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.805;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Ve74z0E5zyz4fICTGBpm-25" target="AtV3VSH8hDh6m8e9UaDK-24" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -567,13 +567,13 @@
         <mxCell id="RbWkgESCxtiouCLkFaxP-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AtV3VSH8hDh6m8e9UaDK-24" target="RbWkgESCxtiouCLkFaxP-94" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="710" y="1530" />
-              <mxPoint x="1195" y="1530" />
+              <mxPoint x="710" y="1580" />
+              <mxPoint x="1195" y="1580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-24" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="581.87" y="1520" width="200" height="10" as="geometry" />
+          <mxGeometry x="581.87" y="1545" width="200" height="10" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-27" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="155" y="1535" width="200" height="10" as="geometry" />
