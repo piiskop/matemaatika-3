@@ -221,7 +221,7 @@
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-11" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;gradientColor=none;shadow=0;glass=0;swimlaneLine=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="40" y="310" width="250" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-12" value="5. teisendab protsendi kümnendmurruks ja harilikuks murruks ning vastupidi:&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Sergo Klišin&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-11" vertex="1">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-12" value="5. teisendab protsendi kümnendmurruks ja harilikuks murruks ning vastupidi:&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;Sergo Klišin&lt;br&gt;Maia&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="HqBFGBw3zhF2iMlEuoAb-11" vertex="1">
           <mxGeometry y="30" width="250" height="85" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -1123,7 +1123,7 @@
         <mxCell id="A42JZo1JjTODqOh-BSz--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.85;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RbWkgESCxtiouCLkFaxP-85" target="A42JZo1JjTODqOh-BSz--7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nh3ja-a0poufqrAoRo53-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.665;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-3" target="A42JZo1JjTODqOh-BSz--7">
+        <mxCell id="nh3ja-a0poufqrAoRo53-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.665;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="H3njUC9bQLBFBT5jkG47-3" target="A42JZo1JjTODqOh-BSz--7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="736" y="730" />
@@ -1131,16 +1131,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nh3ja-a0poufqrAoRo53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.49;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-63" target="RbWkgESCxtiouCLkFaxP-58">
+        <mxCell id="nh3ja-a0poufqrAoRo53-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.49;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="RbWkgESCxtiouCLkFaxP-63" target="RbWkgESCxtiouCLkFaxP-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nh3ja-a0poufqrAoRo53-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nh3ja-a0poufqrAoRo53-3" target="RbWkgESCxtiouCLkFaxP-38">
+        <mxCell id="nh3ja-a0poufqrAoRo53-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nh3ja-a0poufqrAoRo53-3" target="RbWkgESCxtiouCLkFaxP-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nh3ja-a0poufqrAoRo53-3" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="nh3ja-a0poufqrAoRo53-3" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="2260" y="1740" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="nh3ja-a0poufqrAoRo53-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RbWkgESCxtiouCLkFaxP-52" target="nh3ja-a0poufqrAoRo53-3">
+        <mxCell id="nh3ja-a0poufqrAoRo53-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.375;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="RbWkgESCxtiouCLkFaxP-52" target="nh3ja-a0poufqrAoRo53-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
