@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-20" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="250" y="70" width="250" height="130" as="geometry" />
+          <mxGeometry x="250" y="75" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-21" value="13. ümardab ratsionaalarve etteantud järguni&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mikaela Galperman&lt;/div&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" parent="H3njUC9bQLBFBT5jkG47-20" vertex="1">
           <mxGeometry y="30" width="250" height="100" as="geometry" />
@@ -192,10 +192,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-17" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="370" y="270" width="170" height="70" as="geometry" />
+          <mxGeometry x="366.87" y="250" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-18" value="15. selgitab arvu ruutjuure tähendust" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-17" vertex="1">
-          <mxGeometry y="30" width="170" height="40" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-18" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Mikaela Galperman" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-17" vertex="1">
+          <mxGeometry y="30" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.428;exitY=0.633;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.801;entryY=0.367;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-28" target="HqBFGBw3zhF2iMlEuoAb-37" edge="1">
           <mxGeometry relative="1" as="geometry">
