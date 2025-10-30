@@ -41,10 +41,10 @@
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="355" y="410" width="170" height="70" as="geometry" />
+          <mxGeometry x="355" y="410" width="170" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-15" value="16. leiab peast või taskuarvutil ruutjuure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-14" vertex="1">
-          <mxGeometry y="30" width="170" height="40" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-15" value="16. leiab peast või taskuarvutil ruutjuure&lt;br&gt;&lt;br&gt;Mikaela Galperman" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-14" vertex="1">
+          <mxGeometry y="30" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.317;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.89;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-34" target="HqBFGBw3zhF2iMlEuoAb-39" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -60,7 +60,7 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-20" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="135" y="-130" width="250" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-21" value="13. ümardab ratsionaalarve etteantud järguni&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mikaela Galperman&lt;/div&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" parent="H3njUC9bQLBFBT5jkG47-20" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-21" value="13. ümardab ratsionaalarve etteantud järguni&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" parent="H3njUC9bQLBFBT5jkG47-20" vertex="1">
           <mxGeometry y="30" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-23" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
@@ -1124,7 +1124,7 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-17" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-18" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Mikaela Galperman&lt;br&gt;Zahar Orikovi&lt;br&gt;Angelina Solovjova&lt;br&gt;Martin Tolli&lt;br&gt;Maia Tukkia&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Dmitri Litvinenko&lt;/div&gt;&lt;div&gt;Ivan Timakin&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-17" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-18" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Zahar Orikovi&lt;br&gt;Angelina Solovjova&lt;br&gt;Martin Tolli&lt;br&gt;Maia Tukkia&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Dmitri Litvinenko&lt;/div&gt;&lt;div&gt;Ivan Timakin&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-17" vertex="1">
           <mxGeometry y="30" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="slLPLI1UHgwNxPQvilWf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.172;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H3njUC9bQLBFBT5jkG47-21" target="HqBFGBw3zhF2iMlEuoAb-34" edge="1">
