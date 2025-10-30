@@ -598,7 +598,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-3" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="816.87" y="1960" width="630" height="70" as="geometry" />
+          <mxGeometry x="880" y="2065" width="630" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-4" value="40. selgitab ruutfunktsiooni nullkohtade ja haripunkti tähendust ja omavahelist seost, leiab need valemist ning jooniselt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-3" vertex="1">
           <mxGeometry y="30" width="630" height="40" as="geometry" />
@@ -618,13 +618,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="966.87" y="1710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="810" y="1760" />
-              <mxPoint x="1132" y="1760" />
+              <mxPoint x="810" y="2025" />
+              <mxPoint x="810" y="2040" />
+              <mxPoint x="1132" y="2040" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-8" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="760" y="2080" width="870" height="70" as="geometry" />
+          <mxGeometry x="760" y="2160" width="870" height="70" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-9" value="41. joonestab etteantud funktsiooni graafiku (sirge, hüperbooli, parabooli) (nii käsitsi kui ka &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;arvutiprogrammiga&lt;/font&gt;) ning loeb graafikult funktsiooni ja argumendi väärtusi" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-8" vertex="1">
           <mxGeometry y="30" width="870" height="40" as="geometry" />
@@ -915,7 +916,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-94" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1830" width="700" height="60" as="geometry" />
+          <mxGeometry x="845" y="1960" width="700" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RbWkgESCxtiouCLkFaxP-95" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;leiab elulise (nt finantsvaldkonna) probleemi väljendamiseks sobiva matemaatilise mudeli, koostab võrrandi või võrrandisüsteemi&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="RbWkgESCxtiouCLkFaxP-94" vertex="1">
           <mxGeometry y="30" width="700" height="30" as="geometry" />
