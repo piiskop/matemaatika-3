@@ -319,7 +319,7 @@
           <mxGeometry y="30" width="500" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-25" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;glass=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="1610" width="620" height="110" as="geometry" />
+          <mxGeometry x="700" y="1610" width="620" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-26" value="&lt;div&gt;37. lahendab lineaar- ja võrdekujulisi võrrandeid ning lineaarvõrrandisüsteeme kasutades&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;võrrandi põhiomadusi (sh graafiliselt ning arvutiprogrammide abil) (C, B)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;Margarita Mussijenko&lt;br&gt;Maia Tukkia&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-25" vertex="1">
           <mxGeometry y="30" width="620" height="80" as="geometry" />
@@ -330,10 +330,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-28" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="1925" width="290" height="60" as="geometry" />
+          <mxGeometry x="485" y="1885" width="330" height="85" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-29" value="38. lahendab täielikke ja mittetäielikke ruutvõrrandeid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="Ve74z0E5zyz4fICTGBpm-28" vertex="1">
-          <mxGeometry y="30" width="290" height="30" as="geometry" />
+          <mxGeometry y="30" width="330" height="55" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-31" value="6" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#6c8ebf;fillColor=#dae8fc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="450.63" y="2630" width="500" height="140" as="geometry" />
