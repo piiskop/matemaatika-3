@@ -479,10 +479,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-11" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#D6B656;fillColor=#fff2cc;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="-980" y="390" width="450" height="80" as="geometry" />
+          <mxGeometry x="-1049" y="370" width="480" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="AtV3VSH8hDh6m8e9UaDK-12" value="3. loeb, mõistab ja selgitab andmeid tabelist, tulp-, sektor-, joon- ja punktdiagrammilt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="AtV3VSH8hDh6m8e9UaDK-11" vertex="1">
-          <mxGeometry y="30" width="450" height="50" as="geometry" />
+        <mxCell id="AtV3VSH8hDh6m8e9UaDK-12" value="3. loeb, mõistab ja selgitab andmeid tabelist, tulp-, sektor-, joon- ja punktdiagrammilt&lt;br&gt;&lt;br&gt;Veniamin Postolenko" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="AtV3VSH8hDh6m8e9UaDK-11" vertex="1">
+          <mxGeometry y="30" width="480" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AtV3VSH8hDh6m8e9UaDK-14" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=light-dark(#feffc7, #ededed);dropTarget=0;glass=1;" parent="1" vertex="1">
           <mxGeometry x="-490" y="60" width="470" height="160" as="geometry" />
