@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.9" pages="3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="29.0.1" pages="3">
   <diagram name="Õpiväljundid" id="HOLbYARwxGNt5G9FzNMO">
     <mxGraphModel dx="3698" dy="2376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
@@ -44,10 +44,10 @@
           <mxGeometry y="30" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-14" value="3" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="485" y="910" width="170" height="120" as="geometry" />
+          <mxGeometry x="485" y="910" width="170" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-15" value="16. leiab peast või taskuarvutil ruutjuure&lt;br&gt;&lt;br&gt;Mikaela Galperman&lt;br&gt;Angelina Solovjova&lt;br&gt;Ivan Timakin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-14" vertex="1">
-          <mxGeometry y="30" width="170" height="90" as="geometry" />
+        <mxCell id="H3njUC9bQLBFBT5jkG47-15" value="16. leiab peast või taskuarvutil ruutjuure&lt;br&gt;&lt;br&gt;Mikaela Galperman&lt;br&gt;Angelina Solovjova&lt;br&gt;Ivan Timakin&lt;br&gt;Ilja Tsvek" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-14" vertex="1">
+          <mxGeometry y="30" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HqBFGBw3zhF2iMlEuoAb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.317;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.89;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-34" target="HqBFGBw3zhF2iMlEuoAb-39" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -181,15 +181,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HqBFGBw3zhF2iMlEuoAb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.713;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.085;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-34" target="H3njUC9bQLBFBT5jkG47-36" edge="1">
+        <mxCell id="HqBFGBw3zhF2iMlEuoAb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.713;exitY=0.667;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HqBFGBw3zhF2iMlEuoAb-34" target="H3njUC9bQLBFBT5jkG47-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="240" as="sourcePoint" />
-            <mxPoint x="490" y="870" as="targetPoint" />
+            <mxPoint x="440" y="820" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="97" />
               <mxPoint x="340" y="456" />
               <mxPoint x="490" y="456" />
-              <mxPoint x="490" y="877" />
+              <mxPoint x="490" y="750" />
+              <mxPoint x="496" y="750" />
+              <mxPoint x="496" y="820" />
+              <mxPoint x="502" y="820" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1126,7 +1129,7 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-17" value="2" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="630" width="170" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-18" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Zahar Orikovi&lt;br&gt;Martin Tolli&lt;br&gt;Maia Tukkia&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Dmitri Litvinenko&lt;br&gt;Sofia Zhuravleva&lt;br&gt;Ilja Tsvek&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-17" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-18" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Zahar Orikovi&lt;br&gt;Martin Tolli&lt;br&gt;Maia Tukkia&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Dmitri Litvinenko&lt;br&gt;Sofia Zhuravleva&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="H3njUC9bQLBFBT5jkG47-17" vertex="1">
           <mxGeometry y="30" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="slLPLI1UHgwNxPQvilWf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.172;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="H3njUC9bQLBFBT5jkG47-21" target="HqBFGBw3zhF2iMlEuoAb-34" edge="1">
