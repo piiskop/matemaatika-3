@@ -1208,10 +1208,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="u8fGqRaAKVsDvmfbK27e-1" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="70" width="330" height="60" as="geometry" />
+          <mxGeometry x="340" y="70" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u8fGqRaAKVsDvmfbK27e-2" value="1. teab, funktsiooni liike, piirväärtust ja funktsiooni pidevus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="u8fGqRaAKVsDvmfbK27e-1" vertex="1">
-          <mxGeometry y="30" width="330" height="30" as="geometry" />
+        <mxCell id="u8fGqRaAKVsDvmfbK27e-2" value="MA1. teab, funktsiooni liike, piirväärtust ja funktsiooni pidevus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="u8fGqRaAKVsDvmfbK27e-1" vertex="1">
+          <mxGeometry y="30" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u8fGqRaAKVsDvmfbK27e-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="1" source="u8fGqRaAKVsDvmfbK27e-1" target="u8fGqRaAKVsDvmfbK27e-4" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1221,7 +1221,7 @@
         <mxCell id="u8fGqRaAKVsDvmfbK27e-4" value="4" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="160" y="170" width="690" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u8fGqRaAKVsDvmfbK27e-5" value="2. leiab lihtsamaid piirväärtusi, uurib funktsiooni pidevust ja kasutab pideva funktsiooni omadusi ülesannete lahendamisel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="u8fGqRaAKVsDvmfbK27e-4" vertex="1">
+        <mxCell id="u8fGqRaAKVsDvmfbK27e-5" value="MA2. leiab lihtsamaid piirväärtusi, uurib funktsiooni pidevust ja kasutab pideva funktsiooni omadusi ülesannete lahendamisel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="u8fGqRaAKVsDvmfbK27e-4" vertex="1">
           <mxGeometry y="30" width="690" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u8fGqRaAKVsDvmfbK27e-6" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.56;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="u8fGqRaAKVsDvmfbK27e-4" target="A4DdPloeROm3LGZnAz3V-1" edge="1">
@@ -1240,10 +1240,10 @@
           <mxGeometry y="30" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u8fGqRaAKVsDvmfbK27e-9" value="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="320" width="300" height="60" as="geometry" />
+          <mxGeometry x="-70" y="320" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u8fGqRaAKVsDvmfbK27e-10" value="3. tunneb teoreeme, mille alusel funktsioone uuritakse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="u8fGqRaAKVsDvmfbK27e-9" vertex="1">
-          <mxGeometry y="30" width="300" height="30" as="geometry" />
+        <mxCell id="u8fGqRaAKVsDvmfbK27e-10" value="MA3. tunneb teoreeme, mille alusel funktsioone uuritakse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" parent="u8fGqRaAKVsDvmfbK27e-9" vertex="1">
+          <mxGeometry y="30" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Gp6O5j-MK6WKP8-475v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5Gp6O5j-MK6WKP8-475v-1" target="5Gp6O5j-MK6WKP8-475v-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
