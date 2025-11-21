@@ -1411,6 +1411,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7oLNBVrAFyVAEttMdx4S-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" value="3" vertex="1">
+          <mxGeometry height="70" width="630" x="610" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="7oLNBVrAFyVAEttMdx4S-2" parent="7oLNBVrAFyVAEttMdx4S-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="40. selgitab ruutfunktsiooni nullkohtade ja haripunkti tähendust ja omavahelist seost, leiab need valemist ning jooniselt" vertex="1">
+          <mxGeometry height="40" width="630" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31K3j3zOTOPdz6_yoGmG-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#6c8ebf;fillColor=#dae8fc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" value="6" vertex="1">
+          <mxGeometry height="140" width="500" x="40" y="955" as="geometry" />
+        </mxCell>
+        <mxCell id="31K3j3zOTOPdz6_yoGmG-2" parent="31K3j3zOTOPdz6_yoGmG-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="&lt;div&gt;39. koostab ja lahendab tekstülesandeid, mis lahenduvad võrrandi või võrrandisüsteemi abil (sh&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;võrdelise jaotamise ülesandeid) (A)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;&lt;div&gt;Maia Tukkia&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="500" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="31K3j3zOTOPdz6_yoGmG-6" edge="1" parent="1" source="31K3j3zOTOPdz6_yoGmG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7oLNBVrAFyVAEttMdx4S-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="31K3j3zOTOPdz6_yoGmG-3" parent="1" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="10" width="200" x="500" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="31K3j3zOTOPdz6_yoGmG-4" edge="1" parent="1" source="31K3j3zOTOPdz6_yoGmG-3" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="31K3j3zOTOPdz6_yoGmG-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="31K3j3zOTOPdz6_yoGmG-5" edge="1" parent="1" source="0nqLKKjrPFhgYrh8KVTS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" target="31K3j3zOTOPdz6_yoGmG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
