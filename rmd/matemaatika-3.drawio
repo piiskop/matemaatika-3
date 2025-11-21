@@ -1437,6 +1437,32 @@
         <mxCell id="31K3j3zOTOPdz6_yoGmG-5" edge="1" parent="1" source="0nqLKKjrPFhgYrh8KVTS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" target="31K3j3zOTOPdz6_yoGmG-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" value="2" vertex="1">
+          <mxGeometry height="70" width="500" x="40" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-2" parent="bD63z3TpTeavvVk2Nbqf-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="36. selgitab eluliste näidete põhjal võrdelise, lineaarse ja pöördvõrdelise sõltuvuse tähendust" vertex="1">
+          <mxGeometry height="40" width="500" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-3" edge="1" parent="1" source="31K3j3zOTOPdz6_yoGmG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="bD63z3TpTeavvVk2Nbqf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-4" parent="1" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="10" width="200" x="480" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-5" edge="1" parent="1" source="bD63z3TpTeavvVk2Nbqf-4" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" target="bD63z3TpTeavvVk2Nbqf-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-6" edge="1" parent="1" source="bD63z3TpTeavvVk2Nbqf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.12;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" target="bD63z3TpTeavvVk2Nbqf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-7" edge="1" parent="1" source="7oLNBVrAFyVAEttMdx4S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.81;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="bD63z3TpTeavvVk2Nbqf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-8" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="565" y="1360" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
