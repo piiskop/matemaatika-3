@@ -1320,7 +1320,7 @@
         <mxCell id="uIf3P-LSeI4ZT-2Oio8K-2" parent="uIf3P-LSeI4ZT-2Oio8K-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Zahar Orikovi&lt;br&gt;Martin Tolli&lt;br&gt;Maia Tukkia&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Dmitri Litvinenko&lt;br&gt;Sofia Zhuravleva&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="170" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="V-mfAXE5CSljVJeVrxAw-1" edge="1" parent="1" source="uIf3P-LSeI4ZT-2Oio8K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E2OS7UdRGQqIImpYdM4y-1">
+        <mxCell id="V-mfAXE5CSljVJeVrxAw-1" edge="1" parent="1" source="uIf3P-LSeI4ZT-2Oio8K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1rasfYbeEiP5alm7QXDi-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qz5e473ULGlO0lVqZSKT-1" edge="1" parent="1" source="uIf3P-LSeI4ZT-2Oio8K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="v-pD1Q6gdqnypsXQyVG2-1">
@@ -1509,6 +1509,15 @@
         </mxCell>
         <mxCell id="Lbws-o7V2wPtwRQrlRbf-2" parent="Lbws-o7V2wPtwRQrlRbf-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="41. joonestab etteantud funktsiooni graafiku (sirge, hüperbooli, parabooli) (nii käsitsi kui ka &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;arvutiprogrammiga&lt;/font&gt;) ning loeb graafikult funktsiooni ja argumendi väärtusi" vertex="1">
           <mxGeometry height="40" width="870" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rasfYbeEiP5alm7QXDi-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" value="3" vertex="1">
+          <mxGeometry height="70" width="240" x="325" y="-300" as="geometry" />
+        </mxCell>
+        <mxCell id="1rasfYbeEiP5alm7QXDi-2" parent="1rasfYbeEiP5alm7QXDi-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="19. lihtsustab kuni kolmetehtelisi täisavaldisi (D, C)" vertex="1">
+          <mxGeometry height="40" width="240" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1rasfYbeEiP5alm7QXDi-3" edge="1" parent="1" source="1rasfYbeEiP5alm7QXDi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E2OS7UdRGQqIImpYdM4y-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
