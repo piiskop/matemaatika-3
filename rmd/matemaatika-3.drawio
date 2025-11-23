@@ -1469,7 +1469,7 @@
         <mxCell id="bD63z3TpTeavvVk2Nbqf-6" edge="1" parent="1" source="bD63z3TpTeavvVk2Nbqf-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.12;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;" target="bD63z3TpTeavvVk2Nbqf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bD63z3TpTeavvVk2Nbqf-7" edge="1" parent="1" source="7oLNBVrAFyVAEttMdx4S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.81;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="bD63z3TpTeavvVk2Nbqf-4">
+        <mxCell id="bD63z3TpTeavvVk2Nbqf-7" edge="1" parent="1" source="Lbws-o7V2wPtwRQrlRbf-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.81;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="bD63z3TpTeavvVk2Nbqf-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bD63z3TpTeavvVk2Nbqf-8" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
@@ -1497,6 +1497,18 @@
         </mxCell>
         <mxCell id="Y-e7NXWrq74OBAy6kRLy-2" parent="Y-e7NXWrq74OBAy6kRLy-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="14. selgitab naturaalarvulise astendajaga astendamise tähendust (E)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Andrei Aksjonov&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="260" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Lbws-o7V2wPtwRQrlRbf-3" edge="1" parent="1" source="7oLNBVrAFyVAEttMdx4S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.81;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="Lbws-o7V2wPtwRQrlRbf-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925" y="1050" as="sourcePoint" />
+            <mxPoint x="642" y="1326" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lbws-o7V2wPtwRQrlRbf-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" value="3" vertex="1">
+          <mxGeometry height="70" width="870" x="610" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="Lbws-o7V2wPtwRQrlRbf-2" parent="Lbws-o7V2wPtwRQrlRbf-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="41. joonestab etteantud funktsiooni graafiku (sirge, hüperbooli, parabooli) (nii käsitsi kui ka &lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;arvutiprogrammiga&lt;/font&gt;) ning loeb graafikult funktsiooni ja argumendi väärtusi" vertex="1">
+          <mxGeometry height="40" width="870" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
