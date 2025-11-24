@@ -1442,10 +1442,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7oLNBVrAFyVAEttMdx4S-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;fontSize=14;" value="3" vertex="1">
-          <mxGeometry height="70" width="630" x="930" y="-330" as="geometry" />
+          <mxGeometry height="90" width="230" x="930" y="-330" as="geometry" />
         </mxCell>
-        <mxCell id="7oLNBVrAFyVAEttMdx4S-2" parent="7oLNBVrAFyVAEttMdx4S-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontSize=14;" value="40. selgitab ruutfunktsiooni nullkohtade ja haripunkti tähendust ja omavahelist seost, leiab need valemist ning jooniselt" vertex="1">
-          <mxGeometry height="40" width="630" y="30" as="geometry" />
+        <mxCell id="7oLNBVrAFyVAEttMdx4S-2" parent="7oLNBVrAFyVAEttMdx4S-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontSize=14;" value="40. selgitab nullkohtade ja haripunkti seost ning leiab need valemist ja graafikult" vertex="1">
+          <mxGeometry height="60" width="230" y="30" as="geometry" />
         </mxCell>
         <mxCell id="31K3j3zOTOPdz6_yoGmG-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#6c8ebf;fillColor=#dae8fc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" value="6" vertex="1">
           <mxGeometry height="140" width="580" x="330" y="-440" as="geometry" />
@@ -1522,8 +1522,8 @@
         <mxCell id="Lbws-o7V2wPtwRQrlRbf-3" edge="1" parent="1" source="7oLNBVrAFyVAEttMdx4S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="Lbws-o7V2wPtwRQrlRbf-1" value="">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1395" y="-220" />
-              <mxPoint x="1027" y="-220" />
+              <mxPoint x="1027" y="-230" />
+              <mxPoint x="1027" y="-230" />
             </Array>
             <mxPoint x="1395" y="-74" as="sourcePoint" />
             <mxPoint x="1112" y="202" as="targetPoint" />
