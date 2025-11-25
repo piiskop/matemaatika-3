@@ -311,19 +311,19 @@
           <mxGeometry height="40" width="230" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-16" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" value="1" vertex="1">
-          <mxGeometry height="110" width="180" x="1030" y="1960" as="geometry" />
+          <mxGeometry height="110" width="180" x="1030" y="1980" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-17" parent="Ve74z0E5zyz4fICTGBpm-16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="34. nimetab võrrandi põhiomadusi (D)" vertex="1">
           <mxGeometry height="80" width="180" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-22" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" value="2" vertex="1">
-          <mxGeometry height="140" width="500" x="860" y="1780" as="geometry" />
+          <mxGeometry height="160" width="500" x="860" y="1780" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-23" parent="Ve74z0E5zyz4fICTGBpm-22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="35. mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose (nt liikumisel teepikkus, aeg, kiirus) (E); saavutatud:&lt;br&gt;&lt;br&gt;Maksim Mihhailov&lt;br&gt;Julija Rutenburg&lt;br&gt;Arseni Badanin&lt;br&gt;Sergo Klišin" vertex="1">
-          <mxGeometry height="110" width="500" y="30" as="geometry" />
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-23" parent="Ve74z0E5zyz4fICTGBpm-22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="35. mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose (nt liikumisel teepikkus, aeg, kiirus) (E); saavutatud:&lt;br&gt;&lt;br&gt;Maksim Mihhailov&lt;br&gt;Julija Rutenburg&lt;br&gt;Arseni Badanin&lt;br&gt;Sergo Klišin&lt;br&gt;Arina Lisogor" vertex="1">
+          <mxGeometry height="130" width="500" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-25" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;glass=1;" value="3" vertex="1">
-          <mxGeometry height="110" width="620" x="795" y="2110" as="geometry" />
+          <mxGeometry height="110" width="620" x="795" y="2130" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-26" parent="Ve74z0E5zyz4fICTGBpm-25" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="&lt;div&gt;37. lahendab lineaar- ja võrdekujulisi võrrandeid ning lineaarvõrrandisüsteeme kasutades&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237));&quot;&gt;võrrandi põhiomadusi (sh graafiliselt ning arvutiprogrammide abil) (C, B)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;Margarita Mussijenko&lt;br&gt;Maia Tukkia&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="620" y="30" as="geometry" />
@@ -1391,10 +1391,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9LO8nyetqBxxScrj4L9B-1" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;fontSize=14;" value="2" vertex="1">
-          <mxGeometry height="150" width="500" x="240" y="-1300" as="geometry" />
+          <mxGeometry height="160" width="500" x="240" y="-1300" as="geometry" />
         </mxCell>
-        <mxCell id="9LO8nyetqBxxScrj4L9B-2" parent="9LO8nyetqBxxScrj4L9B-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontSize=14;" value="35. mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose; saavutatud:&lt;br&gt;&lt;br&gt;Maksim Mihhailov&lt;br&gt;Julija Rutenburg&lt;br&gt;Arseni Badanin&lt;br&gt;Sergo Klišin" vertex="1">
-          <mxGeometry height="120" width="500" y="30" as="geometry" />
+        <mxCell id="9LO8nyetqBxxScrj4L9B-2" parent="9LO8nyetqBxxScrj4L9B-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontSize=14;" value="35. mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose; saavutatud:&lt;br&gt;&lt;br&gt;Maksim Mihhailov&lt;br&gt;Julija Rutenburg&lt;br&gt;Arseni Badanin&lt;br&gt;Sergo Klišin&lt;br&gt;Arina Lisogor" vertex="1">
+          <mxGeometry height="130" width="500" y="30" as="geometry" />
         </mxCell>
         <mxCell id="9LO8nyetqBxxScrj4L9B-3" edge="1" parent="1" source="9LO8nyetqBxxScrj4L9B-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" target="9FDAOtHrHTdUhZg8fDog-1">
           <mxGeometry relative="1" as="geometry" />
