@@ -46,13 +46,13 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-14" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" value="3" vertex="1">
           <mxGeometry height="190" width="170" x="485" y="910" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-15" parent="H3njUC9bQLBFBT5jkG47-14" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="16. leiab peast või taskuarvutil ruutjuure&lt;br&gt;&lt;br&gt;Mikaela Galperman&lt;br&gt;Angelina Solovjova&lt;br&gt;Ivan Timakin&lt;br&gt;Ilja Tsvek&lt;br&gt;Arina Vatševskihh&lt;br&gt;Zahar Orikovi" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-15" parent="H3njUC9bQLBFBT5jkG47-14" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="16. leiab peast või taskuarvutil ruutjuure&lt;br&gt;&lt;br&gt;Mikaela Galperman&lt;br&gt;Angelina Solovjova&lt;br&gt;Ivan Timakin&lt;br&gt;Ilja Tsvek&lt;br&gt;Arina Vatševskihh&lt;br&gt;Zahar Orikovi&lt;br&gt;Maia Tukkia" vertex="1">
           <mxGeometry height="160" width="170" y="30" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-20" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;" value="3" vertex="1">
           <mxGeometry height="130" width="250" x="135" y="-130" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-21" parent="H3njUC9bQLBFBT5jkG47-20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" value="13. ümardab ratsionaalarve etteantud järguni&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;&lt;div&gt;Mikaela Galperman&lt;br&gt;Maia Tukkia&lt;/div&gt;" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-21" parent="H3njUC9bQLBFBT5jkG47-20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;fontFamily=Helvetica;" value="13. ümardab ratsionaalarve etteantud järguni&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Margarita Mussijenko&lt;/div&gt;&lt;div&gt;Mikaela Galperman&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="250" y="30" as="geometry" />
         </mxCell>
         <mxCell id="H3njUC9bQLBFBT5jkG47-23" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d6b656;fillColor=#fff2cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" value="4" vertex="1">
@@ -1092,7 +1092,7 @@
         <mxCell id="H3njUC9bQLBFBT5jkG47-17" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;" value="2" vertex="1">
           <mxGeometry height="190" width="170" x="520" y="630" as="geometry" />
         </mxCell>
-        <mxCell id="H3njUC9bQLBFBT5jkG47-18" parent="H3njUC9bQLBFBT5jkG47-17" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Zahar Orikovi&lt;br&gt;Martin Tolli&lt;br&gt;Maia Tukkia&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Dmitri Litvinenko&lt;br&gt;Sofia Zhuravleva&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="H3njUC9bQLBFBT5jkG47-18" parent="H3njUC9bQLBFBT5jkG47-17" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="15. selgitab arvu ruutjuure tähendust&lt;br&gt;&lt;br&gt;Zahar Orikovi&lt;br&gt;Martin Tolli&lt;br&gt;&lt;div&gt;Valerija Korenkova&lt;/div&gt;&lt;div&gt;Dmitri Litvinenko&lt;br&gt;Sofia Zhuravleva&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="170" y="30" as="geometry" />
         </mxCell>
         <mxCell id="slLPLI1UHgwNxPQvilWf-2" edge="1" parent="1" source="H3njUC9bQLBFBT5jkG47-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.172;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" target="HqBFGBw3zhF2iMlEuoAb-34">
@@ -1154,6 +1154,11 @@
               <mxPoint x="450" y="775" />
               <mxPoint x="450" y="3594" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkeEOHfqmB6MIAVigwJy-1" connectable="0" parent="wNlywXndmKSgAI37r2RY-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Text" vertex="1">
+          <mxGeometry relative="1" x="-0.0275" y="-3" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qKYC6b4jlMC_H6jCzuVe-1" edge="1" parent="1" source="Ve74z0E5zyz4fICTGBpm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Ve74z0E5zyz4fICTGBpm-25">
