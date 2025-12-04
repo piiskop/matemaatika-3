@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.2" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.3" pages="4">
   <diagram name="Õpiväljundid" id="HOLbYARwxGNt5G9FzNMO">
     <mxGraphModel dx="3698" dy="2376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
@@ -306,10 +306,10 @@
           <mxGeometry height="120" width="180" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-22" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#b85450;fillColor=#f8cecc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;" value="2" vertex="1">
-          <mxGeometry height="190" width="500" x="860" y="1780" as="geometry" />
+          <mxGeometry height="140" width="500" x="860" y="1780" as="geometry" />
         </mxCell>
-        <mxCell id="Ve74z0E5zyz4fICTGBpm-23" parent="Ve74z0E5zyz4fICTGBpm-22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="35. mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose (nt liikumisel teepikkus, aeg, kiirus) (E); saavutatud:&lt;br&gt;&lt;br&gt;Maksim Mihhailov&lt;br&gt;Julija Rutenburg&lt;br&gt;Arseni Badanin&lt;br&gt;Sergo Klišin&lt;br&gt;Arina Lisogor&lt;div&gt;Artjom&lt;/div&gt;&lt;div&gt;Andrei&lt;/div&gt;" vertex="1">
-          <mxGeometry height="160" width="500" y="30" as="geometry" />
+        <mxCell id="Ve74z0E5zyz4fICTGBpm-23" parent="Ve74z0E5zyz4fICTGBpm-22" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;fontColor=#000000;" value="35. mõistab ja tunneb ära võrdelise ja pöördvõrdelise seose (nt liikumisel teepikkus, aeg, kiirus) (E); saavutatud:&lt;br&gt;&lt;br&gt;Sergo Klišin&lt;br&gt;&lt;div&gt;Artjom&lt;/div&gt;&lt;div&gt;Andrei&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="500" y="30" as="geometry" />
         </mxCell>
         <mxCell id="Ve74z0E5zyz4fICTGBpm-25" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=0;resizeLast=1;container=0;collapsible=0;rounded=1;arcSize=30;strokeColor=#d79b00;fillColor=#ffe6cc;swimlaneFillColor=#ffffc0;dropTarget=0;sketch=1;curveFitting=1;jiggle=2;glass=1;" value="3" vertex="1">
           <mxGeometry height="110" width="620" x="800" y="2200" as="geometry" />
